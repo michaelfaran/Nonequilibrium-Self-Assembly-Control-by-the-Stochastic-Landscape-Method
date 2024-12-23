@@ -27,7 +27,7 @@ This repository contains post-processed data aggregated and organized by figures
 - **Assembly Yield and Control Protocol Analysis**:
   - Data showing the assembly yield and Tfas under different simulation conditions with the control protocol (Fig4, Fig7SI, Fig8SI, Fig9SI).
 
-- **Equilibrium Comparisons**:
+- **Equilibrium and non Equilibrium Comparisons**:
   - Tfas histograms with and without equilibrium examples (Fig6SI).
 
 - **Drive Activation Analysis**:
