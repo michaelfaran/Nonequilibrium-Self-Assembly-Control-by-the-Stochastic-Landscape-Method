@@ -9,7 +9,35 @@ This repository contains the post-processed data and MATLAB scripts used to repr
 
 ## Purpose
 This repository supports the reproducibility of results and visualizations from the study. It includes:
-- **Post-processed data**: Results from stochastic landscape simulations, organized by figures.
+### **Post-Processed Data**
+This repository contains post-processed data aggregated and organized by figures, as follows:
+
+- **Energy and Distance Trajectories**:
+  - Examples of energy and distance versus time trajectories (Fig1).
+  
+- **Time to First Assembly Distributions (Tfas)**:
+  - Data for Tfas distributions (Fig2, Fig1SI, Fig2SI).
+
+- **Simulation Ensemble Results**:
+  - Aggregated energy trajectory segments versus time and corresponding measures, used to construct the Stochastic Landscape (Fig3D, Fig4SI, Fig5SI).
+
+- **Energy Trajectories and Trends**:
+  - Example energy trajectories and their trends (Fig3BCEF, Fig3SI).
+
+- **Assembly Yield and Control Protocol Analysis**:
+  - Data showing the assembly yield and Tfas under different simulation conditions with the control protocol (Fig4, Fig7SI, Fig8SI, Fig9SI).
+
+- **Equilibrium Comparisons**:
+  - Tfas histograms with and without equilibrium examples (Fig6SI).
+
+- **Drive Activation Analysis**:
+  - Average distance before, during, and after drive activation under different conditions (Fig5).
+
+- **Visual Data**:
+  - Additional visual data, such as snapshots of individual simulations, used to create figures.
+
+This organization ensures all data necessary to reproduce the figures in the manuscript and Supplementary Information is readily accessible.
+
 - **MATLAB scripts**: `.m` files to process data and recreate the manuscript's figures.
 
 This repository extends the work on the **Stochastic Landscape Method (SLM)**, which has been previously applied and implemented in the following studies:
