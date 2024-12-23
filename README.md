@@ -1,5 +1,6 @@
-
+<div align="center">
 <img src="1D_map_of_dwell_time_vs_trend_resized.png" alt="Repository Overview" width="50%">
+</div>
 
 # Nonequilibrium Self-Assembly Control by the Stochastic Landscape Method
 
