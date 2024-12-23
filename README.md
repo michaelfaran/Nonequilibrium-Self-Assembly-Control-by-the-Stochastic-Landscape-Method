@@ -8,7 +8,7 @@ This repository contains the post-processed data and MATLAB scripts used to repr
 ---
 
 ## Purpose
-This repository supports the reproducibility of results and visualizations from the study, in alignment with the data-sharing policy of the Journal of Chemical Information and Modeling (JCIM). It includes:
+This repository supports the reproducibility of results and visualizations from the study. It includes:
 - **Post-processed data**: Results from stochastic landscape simulations, organized by figures.
 - **MATLAB scripts**: `.m` files to process data and recreate the manuscript's figures.
 
