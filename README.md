@@ -46,5 +46,6 @@ This repository extends the work on the **Stochastic Landscape Method (SLM)**, w
 ## Contact
 For any questions or clarifications, please contact:  
 **Michael Faran**  
-[Your Email Address]
+michaelfaran@gmail.com
+faranmic@mail.tau.ac.il
 
