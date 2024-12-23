@@ -1,3 +1,5 @@
+![Repository Overview](1D_map_of_dwell_time_vs_trend_3_5_0_0.png)
+
 # Nonequilibrium Self-Assembly Control by the Stochastic Landscape Method
 
 This repository contains the post-processed data and MATLAB scripts used to reproduce all figures presented in the manuscript and Supplementary Information (SI) of:
