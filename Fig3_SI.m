@@ -10,7 +10,7 @@ simplest_continious_time_limit_flag=1;
 Hallmark_cd=cd;
 addpath(Hallmark_cd);
 % Rafiq_of_the_many='C:\Users\admin\Documents\RMFO\LoopaUP_1_time_0_85_amp2';
-Rafiq_of_the_many=horzcat(Hallmark_cd,'\Data\SI_Fig3\LoopaUP_N_Control_C_2_T_25_P');
+Rafiq_of_the_many=horzcat(Hallmark_cd,'\Data\SI_Fig3\L');
 % Rafiq_of_the_many='C:\Users\admin\Documents\GitHub\GradProject\Results\KMC_many2';
 % Rafiq_of_the_many='C:\Users\admin\Documents\RMFO\LoopaUP_N_Control_man';
 % Rafiq_of_the_many='C:\Users\admin\Documents\RMFO\LoopaUP_N_Control_New_';

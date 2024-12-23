@@ -1,0 +1,2789 @@
+{'length': 15, 'num_of_particles': 25, 'targets_cfg': [<simulation_cfg.TargetCfg object at 0x2ac93e27ae50>], 'is_cyclic': True, 'seed_matrix': [[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]], 'rel_amp': 0.85, 'rel_time': 1}[{'weak_interaction': -1, 'strong_interaction': -7, 'num_of_instances': 2, 'local_drive': 0}]beginning sim with with strong interaction = -3.4------
+beginning run with mu =0.0 and with interaction =-3.4------
+start time: 21:21:30
+start count: 1726770090.080742
+start count: 1726770090.1026576
+ medium command is = 0------
+start count: 1726770098.7764356
+start count: 1726770108.4492033
+start count: 1726770118.115626
+start count: 1726770127.7544613
+start count: 1726770137.0756295
+start count: 1726770146.7671847
+start count: 1726770156.4412518
+start count: 1726770166.1232276
+start count: 1726770176.078517
+start count: 1726770185.899791
+start count: 1726770196.0105898
+start count: 1726770206.1289318
+start count: 1726770216.2657883
+start count: 1726770226.412412
+start count: 1726770236.5658312
+start count: 1726770246.782527
+start count: 1726770257.0119853
+start count: 1726770267.3075151
+start count: 1726770277.6220975
+start count: 1726770287.8565037
+start count: 1726770298.1386375
+start count: 1726770308.208536
+start count: 1726770318.3299558
+start count: 1726770328.9033406
+start count: 1726770339.9361959
+start count: 1726770351.080087
+start count: 1726770362.653593
+start count: 1726770373.475288
+start count: 1726770384.2237682
+start count: 1726770395.036607
+start count: 1726770405.786252
+start count: 1726770416.4326546
+start count: 1726770427.5130937
+start count: 1726770437.93227
+start count: 1726770448.4096508
+start count: 1726770459.2461493
+start count: 1726770469.9725575
+start count: 1726770480.7339013
+ Will you is = 382247------
+ pt2 is = 0------
+ length of E is = 382247------
+ Start BEAST = 382247------
+ Beast Freq is = 11720------
+ Board.nn is = 1------
+ board simulation time end is = 11720.065383671954------
+ board simulation time start is = 0.00026353557961912875------
+ End segmentation of BEAST = 382247------
+ BEAST Energy Vector Length = 1528------
+ End BEAST = 382247------
+start count: 1726770495.968648
+start count: 1726770506.8328485
+start count: 1726770517.671398
+start count: 1726770528.5295565
+start count: 1726770539.3595707
+start count: 1726770550.2327979
+start count: 1726770561.0649579
+start count: 1726770571.691948
+start count: 1726770582.1757264
+start count: 1726770592.1726832
+start count: 1726770602.260163
+start count: 1726770612.423619
+start count: 1726770622.4957418
+start count: 1726770632.6052227
+start count: 1726770642.6949325
+start count: 1726770652.74976
+start count: 1726770662.8303916
+start count: 1726770672.8840067
+start count: 1726770682.9272127
+start count: 1726770692.9956694
+start count: 1726770703.0444047
+start count: 1726770712.9619074
+start count: 1726770722.9994357
+start count: 1726770733.1788173
+start count: 1726770743.4546788
+start count: 1726770753.6213791
+start count: 1726770763.4864774
+ Will you is = 657804------
+ pt2 is = 378490------
+ length of E is = 279314------
+ Start BEAST = 657804------
+ Beast Freq is = 11720------
+ Board.nn is = 2------
+ board simulation time end is = 23440.012574363584------
+ board simulation time start is = 11582.061300713402------
+ End segmentation of BEAST = 657804------
+ BEAST Energy Vector Length = 1117------
+ End BEAST = 657804------
+start count: 1726770775.709984
+start count: 1726770785.776562
+start count: 1726770795.415319
+start count: 1726770804.5330575
+start count: 1726770814.4340887
+start count: 1726770824.1969643
+start count: 1726770835.019794
+start count: 1726770845.481407
+start count: 1726770855.049684
+start count: 1726770865.5898192
+start count: 1726770874.879814
+start count: 1726770885.242245
+start count: 1726770894.8313038
+start count: 1726770904.9379056
+start count: 1726770915.004478
+tfas: 26148.924533383077
+MC_step: 803271
+start count: 1726770929.8509753
+start count: 1726770941.198359
+start count: 1726770952.5724366
+start count: 1726770964.547098
+start count: 1726770975.6470413
+start count: 1726770986.3504472
+start count: 1726770997.7626388
+start count: 1726771009.205514
+start count: 1726771020.758016
+start count: 1726771032.363497
+start count: 1726771043.083724
+start count: 1726771054.8251436
+start count: 1726771066.7455947
+start count: 1726771078.583953
+start count: 1726771089.2908175
+start count: 1726771100.6161177
+start count: 1726771111.9246068
+start count: 1726771123.4084811
+start count: 1726771134.9009275
+start count: 1726771146.3627486
+ Will you is = 1003353------
+ pt2 is = 952990------
+ length of E is = 50363------
+ Start BEAST = 1003353------
+ Beast Freq is = 11720------
+ Board.nn is = 3------
+ board simulation time end is = 35160.01471727576------
+ board simulation time start is = 31253.039379623006------
+ End BEAST = 1003353------
+start count: 1726771158.0833914
+start count: 1726771169.568943
+start count: 1726771181.0587053
+start count: 1726771192.576223
+start count: 1726771204.0887716
+start count: 1726771215.6089637
+start count: 1726771227.1506147
+start count: 1726771238.63714
+start count: 1726771250.0754993
+start count: 1726771261.5404139
+start count: 1726771272.9093606
+start count: 1726771284.3568017
+start count: 1726771295.869153
+start count: 1726771307.3703923
+ Will you is = 1149058------
+ pt2 is = 1002330------
+ length of E is = 146728------
+ Start BEAST = 1149058------
+ Beast Freq is = 11720------
+ Board.nn is = 4------
+ board simulation time end is = 46880.01008428516------
+ board simulation time start is = 35073.61367132931------
+ End segmentation of BEAST = 1149058------
+ BEAST Energy Vector Length = 586------
+ End BEAST = 1149058------
+start count: 1726771319.8795044
+start count: 1726771331.4833202
+start count: 1726771342.7004902
+start count: 1726771354.2431688
+start count: 1726771365.3691366
+start count: 1726771377.322766
+start count: 1726771389.097685
+start count: 1726771401.059933
+start count: 1726771412.7330093
+start count: 1726771424.5496564
+start count: 1726771435.9758852
+start count: 1726771447.5645156
+start count: 1726771459.2126462
+start count: 1726771470.530151
+start count: 1726771481.784075
+start count: 1726771492.8774886
+start count: 1726771504.1327753
+start count: 1726771515.5912964
+start count: 1726771527.0357127
+start count: 1726771538.9781392
+start count: 1726771550.4825077
+start count: 1726771562.4051707
+start count: 1726771573.2244413
+start count: 1726771584.791915
+start count: 1726771596.2728312
+start count: 1726771607.5917218
+start count: 1726771619.0529318
+start count: 1726771630.4615707
+ Will you is = 1426411------
+ pt2 is = 1377520------
+ length of E is = 48891------
+ Start BEAST = 1426411------
+ Beast Freq is = 11720------
+ Board.nn is = 5------
+ board simulation time end is = 58600.009912057285------
+ board simulation time start is = 54693.02175987056------
+ End BEAST = 1426411------
+start count: 1726771642.0332978
+start count: 1726771653.5845323
+start count: 1726771665.4954274
+start count: 1726771676.5274503
+start count: 1726771688.3338308
+start count: 1726771699.5398173
+start count: 1726771710.709467
+start count: 1726771722.1798549
+start count: 1726771734.071035
+start count: 1726771745.478178
+start count: 1726771755.892818
+start count: 1726771765.8009422
+start count: 1726771776.1686225
+start count: 1726771787.0325358
+start count: 1726771797.256916
+start count: 1726771808.535128
+start count: 1726771819.6495028
+start count: 1726771829.4312181
+start count: 1726771839.8287945
+start count: 1726771849.764788
+start count: 1726771860.6664402
+start count: 1726771871.7164423
+start count: 1726771883.0592399
+start count: 1726771894.919188
+start count: 1726771905.5387926
+start count: 1726771916.719816
+start count: 1726771927.6463356
+start count: 1726771939.377553
+start count: 1726771950.6557338
+start count: 1726771962.0291593
+start count: 1726771973.3824716
+start count: 1726771984.7504838
+ Will you is = 1745624------
+ pt2 is = 1697619------
+ length of E is = 48005------
+ Start BEAST = 1745624------
+ Beast Freq is = 11720------
+ Board.nn is = 6------
+ board simulation time end is = 70320.0579166824------
+ board simulation time start is = 66413.03107827995------
+ End BEAST = 1745624------
+start count: 1726771996.3459547
+start count: 1726772007.8487253
+start count: 1726772019.3649178
+start count: 1726772030.103746
+start count: 1726772041.9480553
+start count: 1726772053.026977
+start count: 1726772065.10913
+start count: 1726772076.8106465
+start count: 1726772088.0810704
+start count: 1726772098.7745976
+start count: 1726772109.812226
+start count: 1726772121.2744377
+start count: 1726772132.2324708
+start count: 1726772142.1031067
+start count: 1726772152.8896933
+start count: 1726772164.7038798
+start count: 1726772176.5012589
+start count: 1726772188.3011613
+start count: 1726772199.5339262
+start count: 1726772211.060897
+start count: 1726772222.4236858
+start count: 1726772234.3120308
+start count: 1726772245.4103374
+start count: 1726772256.259899
+start count: 1726772267.0637345
+start count: 1726772278.2289932
+start count: 1726772289.257102
+start count: 1726772300.8379762
+start count: 1726772312.5565097
+start count: 1726772324.1517456
+start count: 1726772335.7446113
+start count: 1726772347.3256164
+ Will you is = 2060522------
+ pt2 is = 1988354------
+ length of E is = 72168------
+ Start BEAST = 2060522------
+ Beast Freq is = 11720------
+ Board.nn is = 7------
+ board simulation time end is = 82040.00665593303------
+ board simulation time start is = 78133.09186589908------
+ End segmentation of BEAST = 2060522------
+ BEAST Energy Vector Length = 288------
+ End BEAST = 2060522------
+start count: 1726772359.5893471
+start count: 1726772371.2314863
+start count: 1726772382.9261248
+start count: 1726772394.6180341
+start count: 1726772406.2305672
+start count: 1726772417.894173
+start count: 1726772429.5047424
+start count: 1726772441.135885
+start count: 1726772452.8556828
+start count: 1726772464.472842
+start count: 1726772476.0989575
+start count: 1726772487.8875499
+start count: 1726772499.5539372
+start count: 1726772510.7300138
+start count: 1726772522.2923758
+start count: 1726772533.9218714
+start count: 1726772545.5858722
+start count: 1726772557.263118
+start count: 1726772569.0674965
+start count: 1726772580.8649476
+ Will you is = 2264737------
+ pt2 is = 2058043------
+ length of E is = 206694------
+ Start BEAST = 2264737------
+ Beast Freq is = 11720------
+ Board.nn is = 8------
+ board simulation time end is = 93760.09288402036------
+ board simulation time start is = 81895.62239821386------
+ End segmentation of BEAST = 2264737------
+ BEAST Energy Vector Length = 826------
+ End BEAST = 2264737------
+start count: 1726772593.7156227
+start count: 1726772605.5793612
+start count: 1726772617.2608447
+start count: 1726772628.2617133
+start count: 1726772639.658695
+start count: 1726772651.0894403
+start count: 1726772662.4230947
+start count: 1726772673.8859982
+start count: 1726772685.3817859
+start count: 1726772696.7859097
+start count: 1726772708.1990185
+start count: 1726772719.607159
+start count: 1726772731.1659842
+start count: 1726772742.5454268
+start count: 1726772754.02637
+ Will you is = 2418093------
+ pt2 is = 2260929------
+ length of E is = 157164------
+ Start BEAST = 2418093------
+ Beast Freq is = 11720------
+ Board.nn is = 9------
+ board simulation time end is = 105480.11678521901------
+ board simulation time start is = 93533.56427539732------
+ End segmentation of BEAST = 2418093------
+ BEAST Energy Vector Length = 628------
+ End BEAST = 2418093------
+start count: 1726772766.3678274
+start count: 1726772777.759234
+start count: 1726772789.0494144
+start count: 1726772800.4261818
+start count: 1726772811.830718
+start count: 1726772823.3162327
+start count: 1726772834.704389
+start count: 1726772846.0581012
+start count: 1726772857.1129222
+start count: 1726772868.5152433
+start count: 1726772879.9088116
+start count: 1726772891.238296
+start count: 1726772902.6969645
+start count: 1726772914.0548356
+start count: 1726772925.455519
+ Will you is = 2564574------
+ pt2 is = 2415539------
+ length of E is = 149035------
+ Start BEAST = 2564574------
+ Beast Freq is = 11720------
+ Board.nn is = 10------
+ board simulation time end is = 117200.58408614679------
+ board simulation time start is = 105277.48537498938------
+ End segmentation of BEAST = 2564574------
+ BEAST Energy Vector Length = 596------
+ End BEAST = 2564574------
+start count: 1726772937.5245585
+start count: 1726772949.3445191
+start count: 1726772961.2431383
+start count: 1726772972.561192
+start count: 1726772983.983797
+start count: 1726772995.674449
+start count: 1726773007.492659
+start count: 1726773019.4758923
+start count: 1726773031.4840753
+start count: 1726773042.7507253
+start count: 1726773054.6656442
+start count: 1726773067.0915074
+start count: 1726773078.9576654
+start count: 1726773090.7938666
+start count: 1726773102.1581702
+start count: 1726773114.0264456
+start count: 1726773125.8176265
+start count: 1726773137.2747273
+start count: 1726773148.575627
+start count: 1726773159.6020098
+start count: 1726773171.5040538
+start count: 1726773182.7111492
+start count: 1726773193.9912112
+start count: 1726773205.4182336
+start count: 1726773216.8237078
+start count: 1726773228.2239227
+start count: 1726773239.6039505
+ Will you is = 2838008------
+ pt2 is = 2789628------
+ length of E is = 48380------
+ Start BEAST = 2838008------
+ Beast Freq is = 11720------
+ Board.nn is = 11------
+ board simulation time end is = 128920.00758172084------
+ board simulation time start is = 125013.61037651426------
+ End BEAST = 2838008------
+start count: 1726773251.2474358
+start count: 1726773262.2243407
+start count: 1726773273.1841145
+start count: 1726773284.29318
+start count: 1726773295.9110558
+start count: 1726773307.4244788
+start count: 1726773318.559563
+start count: 1726773330.2840085
+start count: 1726773340.8551636
+start count: 1726773352.2298706
+start count: 1726773364.136808
+start count: 1726773375.8698618
+start count: 1726773387.2494843
+start count: 1726773398.710439
+start count: 1726773410.354793
+start count: 1726773422.1153276
+start count: 1726773433.9977808
+start count: 1726773445.7835176
+start count: 1726773457.1283891
+start count: 1726773468.5964031
+start count: 1726773479.952537
+start count: 1726773491.554177
+start count: 1726773503.2737627
+start count: 1726773514.741904
+start count: 1726773526.1440122
+start count: 1726773537.5628972
+start count: 1726773548.9833765
+start count: 1726773560.4282043
+ Will you is = 3116975------
+ pt2 is = 3068065------
+ length of E is = 48910------
+ Start BEAST = 3116975------
+ Beast Freq is = 11720------
+ Board.nn is = 12------
+ board simulation time end is = 140640.2063400085------
+ board simulation time start is = 136733.04377146944------
+ End BEAST = 3116975------
+start count: 1726773572.1018617
+start count: 1726773583.5273674
+start count: 1726773594.2261965
+start count: 1726773606.0970423
+start count: 1726773617.544848
+start count: 1726773629.0516155
+start count: 1726773640.8156443
+start count: 1726773652.3610997
+start count: 1726773664.295101
+start count: 1726773675.962402
+start count: 1726773687.7811568
+start count: 1726773699.4290361
+start count: 1726773710.2675967
+start count: 1726773721.7199032
+start count: 1726773732.9315414
+start count: 1726773744.4210749
+start count: 1726773755.9837072
+start count: 1726773767.4853022
+start count: 1726773778.3496091
+start count: 1726773790.2163677
+start count: 1726773801.5588157
+start count: 1726773812.858306
+start count: 1726773823.8240206
+start count: 1726773835.5944195
+start count: 1726773846.9805255
+start count: 1726773858.4572277
+start count: 1726773869.8497155
+start count: 1726773881.2801056
+ Will you is = 3395843------
+ pt2 is = 3347534------
+ length of E is = 48309------
+ Start BEAST = 3395843------
+ Beast Freq is = 11720------
+ Board.nn is = 13------
+ board simulation time end is = 152360.17788416735------
+ board simulation time start is = 148453.27381575562------
+ End BEAST = 3395843------
+start count: 1726773893.0299442
+start count: 1726773904.76138
+start count: 1726773916.4905958
+start count: 1726773928.263502
+start count: 1726773939.9783156
+start count: 1726773951.7366183
+start count: 1726773963.9321902
+start count: 1726773976.3688965
+start count: 1726773988.1746469
+start count: 1726774000.5982873
+start count: 1726774012.3030958
+start count: 1726774024.1676412
+start count: 1726774035.9405355
+start count: 1726774047.7044454
+start count: 1726774059.4907231
+start count: 1726774071.1661296
+start count: 1726774083.045534
+start count: 1726774094.4630733
+start count: 1726774106.0802112
+start count: 1726774117.522836
+start count: 1726774129.0246472
+start count: 1726774140.587134
+start count: 1726774152.0591307
+start count: 1726774163.2622118
+start count: 1726774174.7158577
+start count: 1726774186.197168
+start count: 1726774197.6583881
+ Will you is = 3662384------
+ pt2 is = 3613448------
+ length of E is = 48936------
+ Start BEAST = 3662384------
+ Beast Freq is = 11720------
+ Board.nn is = 14------
+ board simulation time end is = 164080.03232849532------
+ board simulation time start is = 160173.18356399098------
+ End BEAST = 3662384------
+start count: 1726774209.3992
+start count: 1726774221.1376894
+start count: 1726774232.5708895
+start count: 1726774243.5700123
+start count: 1726774253.4406633
+start count: 1726774263.3951716
+start count: 1726774273.3396263
+start count: 1726774283.0976112
+start count: 1726774294.112626
+start count: 1726774305.660459
+start count: 1726774316.7074864
+start count: 1726774328.4613626
+start count: 1726774339.7460194
+start count: 1726774351.4220552
+start count: 1726774362.855197
+start count: 1726774374.353889
+start count: 1726774386.2633703
+start count: 1726774397.8284483
+start count: 1726774409.733466
+start count: 1726774421.6247857
+start count: 1726774433.1213944
+start count: 1726774444.5488813
+start count: 1726774455.3285737
+start count: 1726774466.0060403
+start count: 1726774477.7211053
+start count: 1726774489.49449
+start count: 1726774500.9807675
+start count: 1726774512.487075
+start count: 1726774524.6468105
+start count: 1726774535.8427413
+start count: 1726774547.3075368
+ Will you is = 3972228------
+ pt2 is = 3910811------
+ length of E is = 61417------
+ Start BEAST = 3972228------
+ Beast Freq is = 11720------
+ Board.nn is = 15------
+ board simulation time end is = 175800.04352086436------
+ board simulation time start is = 171893.03436141065------
+ End BEAST = 3972228------
+start count: 1726774559.413478
+start count: 1726774571.0640218
+start count: 1726774582.435587
+start count: 1726774594.9489243
+start count: 1726774607.1523569
+start count: 1726774618.7790735
+start count: 1726774630.1578865
+start count: 1726774641.4861054
+start count: 1726774653.341137
+start count: 1726774664.7486985
+start count: 1726774675.1846635
+start count: 1726774686.5647898
+start count: 1726774698.3877878
+start count: 1726774710.271066
+start count: 1726774721.7720702
+start count: 1726774733.3492157
+start count: 1726774745.1655455
+start count: 1726774756.7128048
+start count: 1726774768.4757407
+start count: 1726774779.9686615
+start count: 1726774791.8300555
+start count: 1726774803.4328177
+start count: 1726774815.3337498
+start count: 1726774826.7806408
+start count: 1726774838.268133
+start count: 1726774849.7018323
+start count: 1726774861.1216047
+ Will you is = 4244403------
+ pt2 is = 4196205------
+ length of E is = 48198------
+ Start BEAST = 4244403------
+ Beast Freq is = 11720------
+ Board.nn is = 16------
+ board simulation time end is = 187520.0219125794------
+ board simulation time start is = 183613.05149668627------
+ End BEAST = 4244403------
+start count: 1726774872.7186415
+start count: 1726774884.0026789
+start count: 1726774895.339271
+start count: 1726774906.720757
+start count: 1726774918.0473237
+start count: 1726774929.4727163
+start count: 1726774940.813042
+start count: 1726774952.1420674
+start count: 1726774963.5870001
+start count: 1726774975.064562
+start count: 1726774986.394707
+start count: 1726774997.7998939
+start count: 1726775009.2219589
+start count: 1726775020.6064475
+start count: 1726775031.9561136
+ Will you is = 4390543------
+ pt2 is = 4241926------
+ length of E is = 148617------
+ Start BEAST = 4390543------
+ Beast Freq is = 11720------
+ Board.nn is = 17------
+ board simulation time end is = 199240.07947344036------
+ board simulation time start is = 187321.0248992173------
+ End segmentation of BEAST = 4390543------
+ BEAST Energy Vector Length = 594------
+ End BEAST = 4390543------
+start count: 1726775044.1903777
+start count: 1726775055.5594234
+start count: 1726775066.937025
+start count: 1726775078.307096
+start count: 1726775089.7074764
+start count: 1726775102.2125022
+start count: 1726775113.5844285
+start count: 1726775125.0326324
+start count: 1726775136.493985
+start count: 1726775147.9346373
+start count: 1726775159.3928936
+start count: 1726775170.8462734
+start count: 1726775182.2216494
+start count: 1726775193.6829865
+ Will you is = 4535313------
+ pt2 is = 4385730------
+ length of E is = 149583------
+ Start BEAST = 4535313------
+ Beast Freq is = 11720------
+ Board.nn is = 18------
+ board simulation time end is = 210960.18452906347------
+ board simulation time start is = 198849.69112491698------
+ End segmentation of BEAST = 4535313------
+ BEAST Energy Vector Length = 598------
+ End BEAST = 4535313------
+start count: 1726775205.714505
+start count: 1726775217.0872126
+start count: 1726775228.510947
+start count: 1726775239.9312122
+start count: 1726775251.2973688
+start count: 1726775262.6519122
+start count: 1726775273.984624
+start count: 1726775285.3480504
+start count: 1726775296.6735623
+start count: 1726775308.0809014
+start count: 1726775319.4049804
+start count: 1726775330.7607715
+start count: 1726775342.093664
+start count: 1726775353.497012
+ Will you is = 4679435------
+ pt2 is = 4529022------
+ length of E is = 150413------
+ Start BEAST = 4679435------
+ Beast Freq is = 11720------
+ Board.nn is = 19------
+ board simulation time end is = 222680.26353915193------
+ board simulation time start is = 210447.38590757197------
+ End segmentation of BEAST = 4679435------
+ BEAST Energy Vector Length = 601------
+ End BEAST = 4679435------
+start count: 1726775365.7405286
+start count: 1726775377.5210273
+start count: 1726775389.1045752
+start count: 1726775400.7595668
+start count: 1726775412.5136578
+start count: 1726775423.23628
+start count: 1726775434.817159
+start count: 1726775446.5917187
+start count: 1726775458.390541
+start count: 1726775470.2861302
+start count: 1726775482.1026704
+start count: 1726775493.7159045
+start count: 1726775505.2300088
+start count: 1726775516.3449886
+start count: 1726775527.762285
+start count: 1726775539.5361192
+start count: 1726775551.2985759
+start count: 1726775563.1972902
+start count: 1726775574.4794843
+start count: 1726775586.3820107
+start count: 1726775598.1846526
+start count: 1726775609.6371918
+start count: 1726775621.4424655
+start count: 1726775632.8299625
+start count: 1726775644.1819234
+start count: 1726775655.6020632
+start count: 1726775667.0559468
+ Will you is = 4944425------
+ pt2 is = 4896055------
+ length of E is = 48370------
+ Start BEAST = 4944425------
+ Beast Freq is = 11720------
+ Board.nn is = 20------
+ board simulation time end is = 234400.01213589983------
+ board simulation time start is = 230493.29094972502------
+ End BEAST = 4944425------
+start count: 1726775678.9683623
+start count: 1726775690.8173156
+start count: 1726775702.6576662
+start count: 1726775714.4024463
+start count: 1726775726.0031848
+start count: 1726775737.772517
+start count: 1726775749.5670292
+start count: 1726775761.4173791
+start count: 1726775773.1900578
+start count: 1726775785.0011003
+start count: 1726775796.9160206
+start count: 1726775808.8126228
+start count: 1726775820.3612556
+start count: 1726775831.285393
+start count: 1726775841.5662518
+start count: 1726775851.8046277
+start count: 1726775861.9082282
+start count: 1726775872.9561014
+start count: 1726775884.3545587
+start count: 1726775895.9054904
+start count: 1726775906.9089034
+start count: 1726775917.8014538
+start count: 1726775929.6808283
+start count: 1726775941.0761955
+start count: 1726775952.545693
+start count: 1726775963.9483259
+start count: 1726775975.4941616
+start count: 1726775987.0975187
+ Will you is = 5226158------
+ pt2 is = 5177077------
+ length of E is = 49081------
+ Start BEAST = 5226158------
+ Beast Freq is = 11720------
+ Board.nn is = 21------
+ board simulation time end is = 246120.02266137098------
+ board simulation time start is = 242213.13102229655------
+ End BEAST = 5226158------
+start count: 1726775998.660347
+start count: 1726776010.169729
+start count: 1726776022.0110486
+start count: 1726776034.0798771
+start count: 1726776045.2827272
+start count: 1726776055.9033892
+start count: 1726776067.70953
+start count: 1726776078.2033932
+start count: 1726776088.8890417
+start count: 1726776099.4404204
+start count: 1726776111.0691288
+start count: 1726776122.9479547
+start count: 1726776134.8083844
+start count: 1726776146.5024862
+start count: 1726776158.4125333
+start count: 1726776170.9927151
+start count: 1726776183.0949776
+start count: 1726776195.4584837
+start count: 1726776207.4961946
+start count: 1726776219.3220203
+start count: 1726776230.7649565
+start count: 1726776242.1094246
+start count: 1726776253.9220877
+start count: 1726776265.7520335
+start count: 1726776276.7133834
+start count: 1726776288.0554476
+start count: 1726776299.427103
+start count: 1726776310.7157247
+ Will you is = 5508291------
+ pt2 is = 5457961------
+ length of E is = 50330------
+ Start BEAST = 5508291------
+ Beast Freq is = 11720------
+ Board.nn is = 22------
+ board simulation time end is = 257840.1409973768------
+ board simulation time start is = 253933.03688215607------
+ End BEAST = 5508291------
+start count: 1726776322.4649212
+start count: 1726776334.37356
+start count: 1726776345.7161055
+start count: 1726776357.4958973
+start count: 1726776367.9299982
+start count: 1726776379.5706728
+start count: 1726776391.2174673
+start count: 1726776402.8373866
+start count: 1726776413.906292
+start count: 1726776425.26745
+start count: 1726776436.6076446
+start count: 1726776447.6398313
+start count: 1726776459.146152
+start count: 1726776470.803022
+start count: 1726776482.3971658
+start count: 1726776494.0131032
+start count: 1726776504.9030514
+start count: 1726776516.781936
+start count: 1726776527.805034
+start count: 1726776538.3782272
+start count: 1726776549.4970462
+start count: 1726776560.9519713
+start count: 1726776572.2626321
+start count: 1726776584.0678203
+start count: 1726776595.42861
+start count: 1726776606.6806245
+start count: 1726776618.019568
+start count: 1726776629.46426
+ Will you is = 5785727------
+ pt2 is = 5737304------
+ length of E is = 48423------
+ Start BEAST = 5785727------
+ Beast Freq is = 11720------
+ Board.nn is = 23------
+ board simulation time end is = 269560.0291410291------
+ board simulation time start is = 265653.1978438299------
+ End BEAST = 5785727------
+start count: 1726776641.3722978
+start count: 1726776652.687706
+start count: 1726776662.565068
+start count: 1726776673.057947
+start count: 1726776683.8798246
+start count: 1726776694.5157719
+start count: 1726776705.642545
+start count: 1726776715.8351107
+start count: 1726776726.908413
+start count: 1726776738.497252
+start count: 1726776750.3348744
+start count: 1726776761.7461348
+start count: 1726776772.3009636
+start count: 1726776783.2918818
+start count: 1726776794.5873497
+start count: 1726776806.201438
+start count: 1726776816.9242074
+start count: 1726776827.6052387
+start count: 1726776839.0733016
+start count: 1726776850.3252323
+start count: 1726776860.8694046
+start count: 1726776872.1021056
+start count: 1726776883.6976643
+start count: 1726776895.2033932
+start count: 1726776906.452257
+start count: 1726776917.6639566
+start count: 1726776928.8766148
+start count: 1726776940.1466594
+start count: 1726776951.4946563
+start count: 1726776962.8109312
+ Will you is = 6081594------
+ pt2 is = 6032219------
+ length of E is = 49375------
+ Start BEAST = 6081594------
+ Beast Freq is = 11720------
+ Board.nn is = 24------
+ board simulation time end is = 281280.0019792165------
+ board simulation time start is = 277373.06197392434------
+ End BEAST = 6081594------
+start count: 1726776974.3924243
+start count: 1726776986.0853848
+start count: 1726776996.6398056
+start count: 1726777006.7771394
+start count: 1726777016.1495414
+start count: 1726777025.142905
+start count: 1726777036.1359153
+start count: 1726777045.764698
+start count: 1726777056.019828
+start count: 1726777065.8041377
+start count: 1726777076.416803
+start count: 1726777087.9004517
+start count: 1726777099.1803176
+start count: 1726777110.553924
+start count: 1726777122.1389532
+start count: 1726777132.944543
+start count: 1726777144.377738
+start count: 1726777155.8376305
+start count: 1726777167.0753608
+start count: 1726777178.600355
+start count: 1726777189.5569258
+start count: 1726777201.0688167
+start count: 1726777212.627387
+start count: 1726777224.0911775
+start count: 1726777235.7227223
+start count: 1726777246.5855844
+start count: 1726777258.171403
+start count: 1726777269.5003574
+start count: 1726777280.6798122
+start count: 1726777291.8792233
+ Will you is = 6389467------
+ pt2 is = 6340863------
+ length of E is = 48604------
+ Start BEAST = 6389467------
+ Beast Freq is = 11720------
+ Board.nn is = 25------
+ board simulation time end is = 293000.0835717472------
+ board simulation time start is = 289093.0106247172------
+ End BEAST = 6389467------
+start count: 1726777303.170349
+start count: 1726777314.1410265
+start count: 1726777325.695292
+start count: 1726777336.5194292
+start count: 1726777347.8343403
+start count: 1726777358.684844
+start count: 1726777369.542064
+start count: 1726777380.9687755
+start count: 1726777392.0045724
+start count: 1726777402.9363656
+start count: 1726777414.1467845
+start count: 1726777425.6936507
+start count: 1726777437.2990208
+start count: 1726777448.6464489
+start count: 1726777460.0170636
+start count: 1726777471.3450215
+start count: 1726777482.608895
+start count: 1726777493.4489555
+start count: 1726777504.6333506
+start count: 1726777516.0999434
+start count: 1726777527.1141183
+start count: 1726777538.537544
+start count: 1726777550.1547616
+start count: 1726777561.9081182
+start count: 1726777573.196779
+start count: 1726777584.2669199
+start count: 1726777595.4797714
+start count: 1726777606.6806529
+ Will you is = 6666600------
+ pt2 is = 6618299------
+ length of E is = 48301------
+ Start BEAST = 6666600------
+ Beast Freq is = 11720------
+ Board.nn is = 26------
+ board simulation time end is = 304720.147258355------
+ board simulation time start is = 300813.08551364276------
+ End BEAST = 6666600------
+start count: 1726777618.218185
+start count: 1726777629.8415475
+start count: 1726777641.1170988
+start count: 1726777651.6890483
+start count: 1726777662.301238
+start count: 1726777672.9264011
+start count: 1726777683.7170804
+start count: 1726777694.7182322
+start count: 1726777705.9328356
+start count: 1726777717.5814793
+start count: 1726777728.982604
+start count: 1726777740.6136253
+start count: 1726777751.9770515
+start count: 1726777763.5684712
+start count: 1726777774.8274975
+start count: 1726777786.052012
+start count: 1726777797.4071314
+start count: 1726777808.829515
+start count: 1726777819.857604
+start count: 1726777831.2916296
+start count: 1726777842.4419556
+start count: 1726777853.1745481
+start count: 1726777864.2579813
+start count: 1726777875.8751972
+start count: 1726777887.1284328
+start count: 1726777898.406531
+start count: 1726777909.602989
+start count: 1726777920.7846744
+ Will you is = 6946647------
+ pt2 is = 6897265------
+ length of E is = 49382------
+ Start BEAST = 6946647------
+ Beast Freq is = 11720------
+ Board.nn is = 27------
+ board simulation time end is = 316440.15173250396------
+ board simulation time start is = 312533.3034850505------
+ End BEAST = 6946647------
+start count: 1726777932.2670186
+start count: 1726777943.4829135
+start count: 1726777954.605563
+start count: 1726777965.8006122
+start count: 1726777977.099471
+start count: 1726777987.9716663
+start count: 1726777998.9496171
+start count: 1726778010.4867597
+start count: 1726778021.7047052
+start count: 1726778033.3915951
+start count: 1726778044.6534824
+start count: 1726778056.046174
+start count: 1726778066.628557
+start count: 1726778077.4898427
+start count: 1726778088.0765998
+start count: 1726778099.6357949
+start count: 1726778111.1124341
+start count: 1726778122.995271
+start count: 1726778133.5550032
+start count: 1726778142.7024353
+start count: 1726778152.1026287
+start count: 1726778161.0597541
+start count: 1726778170.8827505
+start count: 1726778180.3293726
+start count: 1726778190.0496936
+start count: 1726778199.5631194
+start count: 1726778209.595292
+start count: 1726778218.6621323
+start count: 1726778227.8964322
+start count: 1726778238.1455867
+start count: 1726778247.5377612
+start count: 1726778256.835736
+start count: 1726778265.958692
+start count: 1726778275.0439916
+start count: 1726778284.6935716
+start count: 1726778294.8515906
+start count: 1726778306.303156
+start count: 1726778317.8799047
+start count: 1726778329.1883013
+start count: 1726778340.6445131
+start count: 1726778352.0831149
+start count: 1726778362.9690762
+start count: 1726778374.592053
+start count: 1726778385.878032
+start count: 1726778397.4212956
+start count: 1726778408.3547175
+start count: 1726778420.2251637
+start count: 1726778432.0559936
+start count: 1726778444.212121
+start count: 1726778456.4072268
+start count: 1726778468.1584985
+start count: 1726778479.5116317
+start count: 1726778491.2991223
+start count: 1726778502.9613974
+start count: 1726778514.4935312
+ Will you is = 7496584------
+ pt2 is = 7301477------
+ length of E is = 195107------
+ Start BEAST = 7496584------
+ Beast Freq is = 11720------
+ Board.nn is = 28------
+ board simulation time end is = 328160.0099504879------
+ board simulation time start is = 324253.15353426925------
+ End segmentation of BEAST = 7496584------
+ BEAST Energy Vector Length = 780------
+ End BEAST = 7496584------
+start count: 1726778528.5580213
+start count: 1726778540.2921004
+start count: 1726778552.1436725
+start count: 1726778564.1077743
+start count: 1726778575.6799867
+start count: 1726778587.3355544
+start count: 1726778598.8741066
+start count: 1726778610.2252598
+start count: 1726778621.7176394
+start count: 1726778633.4232888
+start count: 1726778645.1239758
+start count: 1726778656.89171
+start count: 1726778668.541525
+start count: 1726778680.4787264
+start count: 1726778692.3985279
+start count: 1726778704.1865602
+start count: 1726778715.6278288
+start count: 1726778727.119421
+start count: 1726778738.6611884
+start count: 1726778749.6515245
+start count: 1726778761.2849007
+start count: 1726778772.797477
+start count: 1726778784.5622997
+start count: 1726778796.4836237
+start count: 1726778807.899546
+start count: 1726778819.4037344
+start count: 1726778830.7014203
+start count: 1726778841.8928008
+start count: 1726778853.3843615
+start count: 1726778865.159619
+start count: 1726778876.478667
+start count: 1726778887.7653167
+start count: 1726778899.3969126
+start count: 1726778911.1215613
+start count: 1726778921.8161066
+start count: 1726778933.4751887
+start count: 1726778945.1553776
+start count: 1726778956.8954926
+start count: 1726778968.5917075
+start count: 1726778980.2867253
+start count: 1726778991.9470491
+start count: 1726779003.6877255
+start count: 1726779015.330667
+start count: 1726779026.8032799
+start count: 1726779038.2335858
+start count: 1726779049.981706
+start count: 1726779061.802352
+start count: 1726779073.6660368
+start count: 1726779085.5994983
+start count: 1726779097.4989264
+start count: 1726779109.4205678
+start count: 1726779121.3519862
+start count: 1726779133.1580834
+start count: 1726779145.9367387
+start count: 1726779157.8263948
+start count: 1726779169.4470365
+start count: 1726779181.2497232
+ Will you is = 8068023------
+ pt2 is = 7494429------
+ length of E is = 573594------
+ Start BEAST = 8068023------
+ Beast Freq is = 11720------
+ Board.nn is = 29------
+ board simulation time end is = 339880.00347618316------
+ board simulation time start is = 328112.8079983531------
+ End segmentation of BEAST = 8068023------
+ BEAST Energy Vector Length = 2294------
+ End BEAST = 8068023------
+start count: 1726779201.7484708
+start count: 1726779213.496831
+start count: 1726779224.8214438
+start count: 1726779236.9969122
+start count: 1726779248.6934624
+start count: 1726779260.4344642
+start count: 1726779272.1451
+start count: 1726779283.7699313
+start count: 1726779295.3144941
+start count: 1726779306.8731856
+start count: 1726779318.354259
+start count: 1726779330.4254975
+start count: 1726779342.1272192
+start count: 1726779353.431958
+start count: 1726779365.8894527
+start count: 1726779378.8212705
+start count: 1726779392.058149
+start count: 1726779404.7680492
+start count: 1726779417.5441172
+start count: 1726779430.1791422
+start count: 1726779443.289026
+start count: 1726779455.4537258
+start count: 1726779468.266926
+start count: 1726779480.775304
+start count: 1726779492.688854
+start count: 1726779504.5499034
+start count: 1726779516.0963407
+start count: 1726779527.367437
+start count: 1726779539.3525522
+start count: 1726779551.1641371
+start count: 1726779562.8302858
+start count: 1726779574.0465002
+start count: 1726779585.5611875
+start count: 1726779597.4166064
+start count: 1726779609.1373217
+start count: 1726779621.1277924
+start count: 1726779633.421276
+start count: 1726779644.8672183
+start count: 1726779656.2654223
+start count: 1726779667.741073
+start count: 1726779679.5987985
+start count: 1726779691.0169008
+start count: 1726779702.0500054
+start count: 1726779713.048998
+start count: 1726779724.240903
+start count: 1726779734.8177013
+start count: 1726779745.947498
+start count: 1726779757.2876709
+start count: 1726779768.2774007
+start count: 1726779779.65266
+start count: 1726779791.1011949
+start count: 1726779802.5255268
+ Will you is = 8580344------
+ pt2 is = 8063861------
+ length of E is = 516483------
+ Start BEAST = 8580344------
+ Beast Freq is = 11720------
+ Board.nn is = 30------
+ board simulation time end is = 351600.097529209------
+ board simulation time start is = 339796.01088502427------
+ End segmentation of BEAST = 8580344------
+ BEAST Energy Vector Length = 2065------
+ End BEAST = 8580344------
+start count: 1726779821.93666
+start count: 1726779833.4073603
+start count: 1726779844.6004646
+start count: 1726779855.855017
+start count: 1726779867.37942
+start count: 1726779878.9846923
+start count: 1726779890.3302512
+start count: 1726779901.7369585
+start count: 1726779913.0740328
+start count: 1726779924.4912212
+start count: 1726779935.9378686
+start count: 1726779947.036815
+start count: 1726779958.7789776
+start count: 1726779970.4287124
+start count: 1726779982.0386589
+start count: 1726779993.596763
+start count: 1726780005.0610795
+start count: 1726780016.339179
+start count: 1726780027.7400877
+start count: 1726780038.6448815
+start count: 1726780049.7638962
+start count: 1726780060.888167
+start count: 1726780072.6152117
+start count: 1726780083.9049568
+start count: 1726780095.6602027
+start count: 1726780107.042208
+start count: 1726780118.710944
+start count: 1726780130.2370481
+start count: 1726780141.7019062
+start count: 1726780153.0148673
+start count: 1726780164.4190464
+start count: 1726780175.8134103
+start count: 1726780187.3979175
+start count: 1726780198.9788353
+start count: 1726780210.5268123
+start count: 1726780222.1802595
+start count: 1726780233.7552876
+start count: 1726780245.292643
+start count: 1726780256.5770357
+start count: 1726780267.9042017
+start count: 1726780279.33966
+start count: 1726780290.7221007
+ Will you is = 9008836------
+ pt2 is = 8576043------
+ length of E is = 432793------
+ Start BEAST = 9008836------
+ Beast Freq is = 11720------
+ Board.nn is = 31------
+ board simulation time end is = 363320.25288180227------
+ board simulation time start is = 351468.91297915607------
+ End segmentation of BEAST = 9008836------
+ BEAST Energy Vector Length = 1731------
+ End BEAST = 9008836------
+start count: 1726780308.6152282
+start count: 1726780320.3537977
+start count: 1726780332.0437114
+start count: 1726780344.7490535
+start count: 1726780357.6337297
+start count: 1726780370.4852333
+start count: 1726780382.8409321
+start count: 1726780394.4552093
+start count: 1726780405.891997
+start count: 1726780417.301835
+start count: 1726780428.6102347
+start count: 1726780439.6421664
+start count: 1726780450.2617092
+start count: 1726780461.7209702
+start count: 1726780473.3334827
+start count: 1726780484.9305654
+start count: 1726780496.3581939
+start count: 1726780508.0130835
+start count: 1726780519.7167618
+start count: 1726780531.3972297
+start count: 1726780542.9580405
+start count: 1726780554.564811
+start count: 1726780566.2314763
+start count: 1726780577.559208
+start count: 1726780588.7788088
+start count: 1726780599.678595
+start count: 1726780611.1064365
+start count: 1726780623.0319564
+start count: 1726780634.8257277
+start count: 1726780646.0546768
+start count: 1726780657.4507785
+start count: 1726780668.852889
+start count: 1726780680.2035766
+start count: 1726780691.686031
+start count: 1726780702.5234632
+start count: 1726780714.0432816
+start count: 1726780725.6118343
+start count: 1726780737.1524398
+ Will you is = 9383943------
+ pt2 is = 9006210------
+ length of E is = 377733------
+ Start BEAST = 9383943------
+ Beast Freq is = 11720------
+ Board.nn is = 32------
+ board simulation time end is = 375040.03658024647------
+ board simulation time start is = 363250.3629267086------
+ End segmentation of BEAST = 9383943------
+ BEAST Energy Vector Length = 1510------
+ End BEAST = 9383943------
+start count: 1726780752.4534106
+start count: 1726780763.2488158
+start count: 1726780774.1143668
+start count: 1726780785.102131
+start count: 1726780795.4580705
+start count: 1726780804.784427
+start count: 1726780813.9846888
+start count: 1726780824.6238914
+start count: 1726780834.769756
+start count: 1726780844.8394568
+start count: 1726780855.5645823
+start count: 1726780865.6573174
+start count: 1726780875.6538846
+start count: 1726780885.6592195
+start count: 1726780895.602083
+start count: 1726780905.225403
+start count: 1726780914.9227197
+start count: 1726780925.2808902
+start count: 1726780936.470845
+start count: 1726780947.0145187
+start count: 1726780957.845954
+start count: 1726780968.5766947
+start count: 1726780979.042861
+start count: 1726780989.276649
+start count: 1726780999.2655349
+start count: 1726781009.081698
+start count: 1726781019.4399338
+start count: 1726781029.7922988
+start count: 1726781040.538068
+start count: 1726781051.6316748
+start count: 1726781061.9973779
+start count: 1726781073.2651174
+start count: 1726781083.4709253
+start count: 1726781093.307901
+start count: 1726781102.865069
+start count: 1726781112.1424754
+start count: 1726781122.0741343
+start count: 1726781131.3794403
+start count: 1726781140.6154332
+start count: 1726781150.5132253
+start count: 1726781160.6593797
+start count: 1726781170.5140805
+start count: 1726781179.890631
+start count: 1726781189.5502577
+start count: 1726781198.9346035
+start count: 1726781209.0960734
+start count: 1726781218.1759446
+start count: 1726781226.935407
+start count: 1726781236.0826232
+start count: 1726781245.4586127
+start count: 1726781255.3197088
+start count: 1726781266.155657
+start count: 1726781275.7468646
+start count: 1726781285.5793796
+start count: 1726781295.8536081
+start count: 1726781306.6030629
+start count: 1726781316.32686
+start count: 1726781327.1346078
+start count: 1726781338.26036
+start count: 1726781349.4424968
+start count: 1726781360.5359566
+start count: 1726781371.3690422
+ medium command is = 10000000------
+start count: 1726781382.2156625
+start count: 1726781393.008888
+start count: 1726781404.5186155
+start count: 1726781416.3576336
+start count: 1726781427.7878203
+start count: 1726781438.9268136
+start count: 1726781450.0307555
+start count: 1726781460.9414082
+ Will you is = 10084702------
+ pt2 is = 9938546------
+ length of E is = 146156------
+ Start BEAST = 10084702------
+ Beast Freq is = 11720------
+ Board.nn is = 33------
+ board simulation time end is = 386760.0301723089------
+ board simulation time start is = 382853.0559918808------
+ End segmentation of BEAST = 10084702------
+ BEAST Energy Vector Length = 584------
+ End BEAST = 10084702------
+start count: 1726781473.4481175
+start count: 1726781484.3472166
+start count: 1726781495.4416606
+start count: 1726781506.5967183
+start count: 1726781517.686567
+start count: 1726781529.1189253
+start count: 1726781540.4851375
+start count: 1726781552.225193
+start count: 1726781564.4235744
+start count: 1726781575.6181095
+start count: 1726781587.518125
+start count: 1726781600.1453376
+start count: 1726781612.7373023
+start count: 1726781624.7908752
+start count: 1726781637.1687648
+start count: 1726781650.1289818
+start count: 1726781662.5009928
+start count: 1726781675.5307827
+start count: 1726781687.7339814
+start count: 1726781699.7428687
+start count: 1726781711.7652357
+start count: 1726781723.752191
+start count: 1726781735.250599
+start count: 1726781747.6134043
+start count: 1726781759.380392
+start count: 1726781772.1416173
+start count: 1726781785.382973
+start count: 1726781799.045502
+start count: 1726781812.157656
+start count: 1726781825.4773097
+start count: 1726781839.0062
+start count: 1726781852.5406554
+start count: 1726781866.1598604
+start count: 1726781878.0935812
+start count: 1726781891.047925
+start count: 1726781903.9657552
+start count: 1726781915.5827656
+start count: 1726781927.5254405
+start count: 1726781940.3788009
+ Will you is = 10475644------
+ pt2 is = 10081793------
+ length of E is = 393851------
+ Start BEAST = 10475644------
+ Beast Freq is = 11720------
+ Board.nn is = 34------
+ board simulation time end is = 398480.04357409314------
+ board simulation time start is = 386668.86505494494------
+ End segmentation of BEAST = 10475644------
+ BEAST Energy Vector Length = 1575------
+ End BEAST = 10475644------
+start count: 1726781957.957521
+start count: 1726781969.3624778
+start count: 1726781980.801398
+start count: 1726781992.1445866
+start count: 1726782003.85833
+start count: 1726782016.0173504
+start count: 1726782028.047114
+start count: 1726782039.9876337
+start count: 1726782052.2039826
+start count: 1726782064.6069913
+start count: 1726782076.2420967
+start count: 1726782088.3105867
+start count: 1726782100.3122945
+start count: 1726782112.3605716
+start count: 1726782124.3458853
+start count: 1726782136.2890916
+start count: 1726782148.2180634
+start count: 1726782160.1773055
+start count: 1726782172.3286037
+start count: 1726782184.2787023
+start count: 1726782196.243962
+start count: 1726782207.9189606
+start count: 1726782219.8246822
+start count: 1726782232.023089
+start count: 1726782244.121006
+start count: 1726782256.3017676
+start count: 1726782268.4688723
+start count: 1726782280.520489
+start count: 1726782292.558349
+start count: 1726782304.6409442
+start count: 1726782316.6641293
+start count: 1726782328.6105409
+ Will you is = 10793575------
+ pt2 is = 10473418------
+ length of E is = 320157------
+ Start BEAST = 10793575------
+ Beast Freq is = 11720------
+ Board.nn is = 35------
+ board simulation time end is = 410200.0156569284------
+ board simulation time start is = 398394.47170692356------
+ End segmentation of BEAST = 10793575------
+ BEAST Energy Vector Length = 1280------
+ End BEAST = 10793575------
+start count: 1726782342.1765313
+start count: 1726782352.9933372
+start count: 1726782363.5607584
+start count: 1726782374.088408
+start count: 1726782384.8118806
+start count: 1726782395.3629758
+start count: 1726782404.2860084
+start count: 1726782413.5041165
+start count: 1726782422.360581
+start count: 1726782431.7343147
+start count: 1726782442.247809
+start count: 1726782452.5833793
+start count: 1726782463.1264474
+start count: 1726782474.649299
+start count: 1726782485.2813168
+start count: 1726782495.3743718
+start count: 1726782504.6150196
+start count: 1726782514.141729
+start count: 1726782524.2875175
+start count: 1726782534.4909
+start count: 1726782545.3847816
+start count: 1726782555.5746865
+start count: 1726782564.8800871
+start count: 1726782575.0179002
+start count: 1726782585.768902
+start count: 1726782596.2469423
+start count: 1726782606.1720867
+start count: 1726782615.9098155
+start count: 1726782625.1812088
+start count: 1726782635.091969
+start count: 1726782645.3129964
+start count: 1726782654.5197833
+start count: 1726782663.6844077
+start count: 1726782672.2743905
+start count: 1726782682.4446986
+start count: 1726782692.1624959
+start count: 1726782701.841844
+start count: 1726782710.9082704
+start count: 1726782720.7298932
+start count: 1726782730.524243
+start count: 1726782740.0671675
+start count: 1726782749.4990418
+start count: 1726782758.6844094
+start count: 1726782768.223483
+start count: 1726782777.4740307
+start count: 1726782786.6118534
+start count: 1726782795.7223341
+start count: 1726782804.8557348
+start count: 1726782814.2105556
+start count: 1726782822.9424443
+start count: 1726782831.90145
+start count: 1726782840.8768694
+start count: 1726782849.7908697
+start count: 1726782859.430479
+start count: 1726782869.6916234
+start count: 1726782879.379784
+start count: 1726782889.0091016
+start count: 1726782900.2502522
+start count: 1726782911.5319343
+start count: 1726782923.171844
+start count: 1726782934.213548
+start count: 1726782945.6917021
+start count: 1726782957.5385525
+start count: 1726782968.8987525
+start count: 1726782980.3628163
+start count: 1726782991.8567271
+start count: 1726783003.1785903
+start count: 1726783015.0623832
+start count: 1726783026.8798985
+start count: 1726783038.9176018
+start count: 1726783050.7927916
+start count: 1726783062.343368
+start count: 1726783074.059555
+ Will you is = 11524046------
+ pt2 is = 11361705------
+ length of E is = 162341------
+ Start BEAST = 11524046------
+ Beast Freq is = 11720------
+ Board.nn is = 36------
+ board simulation time end is = 421920.0026091095------
+ board simulation time start is = 418013.0468314267------
+ End segmentation of BEAST = 11524046------
+ BEAST Energy Vector Length = 649------
+ End BEAST = 11524046------
+start count: 1726783087.4362335
+start count: 1726783099.056146
+start count: 1726783110.672846
+start count: 1726783122.3500304
+start count: 1726783133.96809
+start count: 1726783145.5110521
+start count: 1726783157.098666
+start count: 1726783169.1891387
+start count: 1726783180.9889429
+start count: 1726783192.3935034
+start count: 1726783203.78316
+start count: 1726783214.56597
+start count: 1726783226.6509845
+start count: 1726783238.7059479
+start count: 1726783250.7793055
+start count: 1726783262.862464
+start count: 1726783274.5214388
+start count: 1726783286.0931122
+start count: 1726783297.7374141
+start count: 1726783309.2817464
+start count: 1726783320.9007165
+start count: 1726783332.565038
+start count: 1726783344.1238923
+start count: 1726783355.77174
+start count: 1726783367.3689945
+start count: 1726783378.914089
+start count: 1726783390.3846629
+start count: 1726783402.1005595
+start count: 1726783413.584299
+start count: 1726783425.1615312
+start count: 1726783436.9248025
+ Will you is = 11831814------
+ pt2 is = 11520057------
+ length of E is = 311757------
+ Start BEAST = 11831814------
+ Beast Freq is = 11720------
+ Board.nn is = 37------
+ board simulation time end is = 433640.0089298735------
+ board simulation time start is = 421785.35074155603------
+ End segmentation of BEAST = 11831814------
+ BEAST Energy Vector Length = 1247------
+ End BEAST = 11831814------
+start count: 1726783451.8573716
+start count: 1726783463.4854727
+start count: 1726783475.08103
+start count: 1726783486.630458
+start count: 1726783498.2944524
+start count: 1726783509.9464343
+start count: 1726783521.520539
+start count: 1726783533.1153977
+start count: 1726783544.8026872
+start count: 1726783556.366667
+start count: 1726783567.9961333
+start count: 1726783579.6496232
+start count: 1726783591.3328757
+start count: 1726783602.917409
+start count: 1726783614.3090868
+start count: 1726783625.9364746
+start count: 1726783637.4406655
+start count: 1726783648.7271452
+start count: 1726783660.3437166
+start count: 1726783671.9339275
+start count: 1726783683.323313
+start count: 1726783695.267036
+start count: 1726783707.0436118
+start count: 1726783718.8381445
+start count: 1726783730.7900596
+start count: 1726783742.9041698
+start count: 1726783754.617017
+start count: 1726783766.3550727
+ Will you is = 12112834------
+ pt2 is = 11828216------
+ length of E is = 284618------
+ Start BEAST = 12112834------
+ Beast Freq is = 11720------
+ Board.nn is = 38------
+ board simulation time end is = 445360.0114624789------
+ board simulation time start is = 433477.9537787111------
+ End segmentation of BEAST = 12112834------
+ BEAST Energy Vector Length = 1138------
+ End BEAST = 12112834------
+start count: 1726783780.1555667
+start count: 1726783791.8114972
+start count: 1726783803.3569703
+start count: 1726783814.6674907
+start count: 1726783825.9542217
+start count: 1726783837.3809216
+start count: 1726783848.7727926
+start count: 1726783860.4343743
+start count: 1726783872.0676565
+start count: 1726783883.7149196
+start count: 1726783895.0127525
+start count: 1726783906.761065
+start count: 1726783918.1546187
+start count: 1726783929.7875593
+start count: 1726783941.3013475
+start count: 1726783952.7729905
+start count: 1726783964.1832294
+start count: 1726783975.6967666
+start count: 1726783987.1485512
+start count: 1726783998.5996456
+start count: 1726784010.2557368
+start count: 1726784021.840922
+start count: 1726784033.3495433
+start count: 1726784044.9761367
+start count: 1726784056.594143
+start count: 1726784068.120065
+start count: 1726784079.1061873
+start count: 1726784090.151998
+start count: 1726784100.9863007
+start count: 1726784111.7443554
+ Will you is = 12416432------
+ pt2 is = 12105558------
+ length of E is = 310874------
+ Start BEAST = 12416432------
+ Beast Freq is = 11720------
+ Board.nn is = 39------
+ board simulation time end is = 457080.0134757332------
+ board simulation time start is = 445073.3991099777------
+ End segmentation of BEAST = 12416432------
+ BEAST Energy Vector Length = 1243------
+ End BEAST = 12416432------
+start count: 1726784126.0955923
+start count: 1726784137.2273707
+start count: 1726784148.498941
+start count: 1726784159.6621091
+start count: 1726784170.8618653
+start count: 1726784182.147438
+start count: 1726784193.3554049
+start count: 1726784204.1602998
+start count: 1726784215.6861124
+start count: 1726784226.7990816
+start count: 1726784237.831683
+start count: 1726784249.096421
+start count: 1726784260.4457452
+start count: 1726784271.512172
+start count: 1726784282.5894089
+start count: 1726784293.8465376
+start count: 1726784305.0798023
+start count: 1726784316.3606315
+start count: 1726784327.6086414
+start count: 1726784338.9357529
+start count: 1726784350.2846744
+start count: 1726784361.6852477
+ Will you is = 12635214------
+ pt2 is = 12410736------
+ length of E is = 224478------
+ Start BEAST = 12635214------
+ Beast Freq is = 11720------
+ Board.nn is = 40------
+ board simulation time end is = 468800.01176822395------
+ board simulation time start is = 456882.0705921327------
+ End segmentation of BEAST = 12635214------
+ BEAST Energy Vector Length = 897------
+ End BEAST = 12635214------
+start count: 1726784375.4404016
+start count: 1726784386.7608595
+start count: 1726784398.1820385
+start count: 1726784409.639681
+start count: 1726784420.9828663
+start count: 1726784432.1262858
+start count: 1726784443.782947
+start count: 1726784455.168843
+start count: 1726784466.542997
+start count: 1726784477.8772159
+start count: 1726784489.526207
+start count: 1726784500.7506077
+start count: 1726784512.0722399
+start count: 1726784523.5189803
+start count: 1726784535.3990645
+start count: 1726784547.036524
+start count: 1726784558.1133385
+start count: 1726784569.636891
+start count: 1726784581.3897247
+start count: 1726784592.6270666
+start count: 1726784603.9141908
+start count: 1726784614.9378028
+start count: 1726784626.3932912
+ Will you is = 12860434------
+ pt2 is = 12632255------
+ length of E is = 228179------
+ Start BEAST = 12860434------
+ Beast Freq is = 11720------
+ Board.nn is = 41------
+ board simulation time end is = 480520.2483954984------
+ board simulation time start is = 468628.48498652456------
+ End segmentation of BEAST = 12860434------
+ BEAST Energy Vector Length = 912------
+ End BEAST = 12860434------
+start count: 1726784639.2464995
+start count: 1726784650.6221354
+start count: 1726784662.1002057
+start count: 1726784673.2994273
+start count: 1726784684.5959508
+start count: 1726784695.9051874
+start count: 1726784707.2994502
+start count: 1726784718.5418158
+start count: 1726784729.6496625
+start count: 1726784740.9318311
+start count: 1726784752.231036
+start count: 1726784763.631871
+start count: 1726784774.9872582
+start count: 1726784786.277876
+start count: 1726784797.6157067
+start count: 1726784808.8875782
+start count: 1726784820.137775
+start count: 1726784831.580144
+start count: 1726784842.7289495
+start count: 1726784854.1638892
+start count: 1726784865.345255
+start count: 1726784876.2468886
+ Will you is = 13082143------
+ pt2 is = 12855669------
+ length of E is = 226474------
+ Start BEAST = 13082143------
+ Beast Freq is = 11720------
+ Board.nn is = 42------
+ board simulation time end is = 492240.0142327072------
+ board simulation time start is = 480250.04689477745------
+ End segmentation of BEAST = 13082143------
+ BEAST Energy Vector Length = 905------
+ End BEAST = 13082143------
+start count: 1726784889.3028429
+start count: 1726784900.6487956
+start count: 1726784911.9396098
+start count: 1726784923.217848
+start count: 1726784934.4971476
+start count: 1726784945.8886113
+start count: 1726784957.1039925
+start count: 1726784968.4434626
+start count: 1726784979.7738883
+start count: 1726784991.0876744
+start count: 1726785001.892226
+start count: 1726785012.5756667
+start count: 1726785024.078444
+start count: 1726785035.7727675
+start count: 1726785047.4227374
+start count: 1726785059.0190969
+start count: 1726785070.576056
+start count: 1726785082.2134492
+start count: 1726785092.8789835
+start count: 1726785103.9178376
+start count: 1726785114.8886344
+ Will you is = 13293818------
+ pt2 is = 13079406------
+ length of E is = 214412------
+ Start BEAST = 13293818------
+ Beast Freq is = 11720------
+ Board.nn is = 43------
+ board simulation time end is = 503960.00795803906------
+ board simulation time start is = 492069.3014294751------
+ End segmentation of BEAST = 13293818------
+ BEAST Energy Vector Length = 857------
+ End BEAST = 13293818------
+start count: 1726785127.7598915
+start count: 1726785138.9291599
+start count: 1726785150.5009317
+start count: 1726785162.027225
+start count: 1726785173.651577
+start count: 1726785185.1742322
+start count: 1726785196.8191357
+start count: 1726785208.451853
+start count: 1726785219.7739468
+start count: 1726785231.1728117
+start count: 1726785242.821822
+start count: 1726785253.93357
+start count: 1726785265.0119817
+start count: 1726785276.272311
+start count: 1726785287.5667365
+start count: 1726785298.2829447
+start count: 1726785309.270029
+start count: 1726785320.3781223
+start count: 1726785331.5938113
+start count: 1726785342.7210863
+start count: 1726785353.9198854
+start count: 1726785364.903356
+start count: 1726785375.7567677
+ Will you is = 13524744------
+ pt2 is = 13291170------
+ length of E is = 233574------
+ Start BEAST = 13524744------
+ Beast Freq is = 11720------
+ Board.nn is = 44------
+ board simulation time end is = 515680.01260118216------
+ board simulation time start is = 503812.3278376167------
+ End segmentation of BEAST = 13524744------
+ BEAST Energy Vector Length = 934------
+ End BEAST = 13524744------
+start count: 1726785389.1734436
+start count: 1726785400.3564525
+start count: 1726785411.7388568
+start count: 1726785423.29757
+start count: 1726785434.889855
+start count: 1726785446.3572955
+start count: 1726785457.0983949
+start count: 1726785468.6486766
+start count: 1726785480.22706
+start count: 1726785491.7700014
+start count: 1726785503.3645594
+start count: 1726785514.9297192
+start count: 1726785526.464376
+start count: 1726785537.955303
+start count: 1726785548.4004214
+start count: 1726785559.1508253
+start count: 1726785570.131127
+start count: 1726785581.3715768
+start count: 1726785592.5875216
+start count: 1726785603.3542337
+start count: 1726785614.9763405
+start count: 1726785626.9221144
+start count: 1726785638.6241655
+ Will you is = 13750371------
+ pt2 is = 13474298------
+ length of E is = 276073------
+ Start BEAST = 13750371------
+ Beast Freq is = 11720------
+ Board.nn is = 45------
+ board simulation time end is = 527400.0352035528------
+ board simulation time start is = 513161.10365989385------
+ End segmentation of BEAST = 13750371------
+ BEAST Energy Vector Length = 1104------
+ End BEAST = 13750371------
+start count: 1726785652.943201
+start count: 1726785664.5236077
+start count: 1726785676.318279
+start count: 1726785688.3607821
+start count: 1726785700.463123
+start count: 1726785712.239331
+start count: 1726785724.2145948
+start count: 1726785736.3733785
+start count: 1726785748.1438406
+start count: 1726785760.0059974
+start count: 1726785772.2249827
+start count: 1726785784.4405007
+start count: 1726785796.9636655
+start count: 1726785809.272087
+start count: 1726785820.849377
+start count: 1726785832.5534184
+start count: 1726785844.8603978
+start count: 1726785856.7451859
+start count: 1726785868.4274938
+start count: 1726785879.661251
+start count: 1726785891.7068923
+start count: 1726785903.2229962
+start count: 1726785914.408719
+start count: 1726785925.6273024
+ Will you is = 13991565------
+ pt2 is = 13747485------
+ length of E is = 244080------
+ Start BEAST = 13991565------
+ Beast Freq is = 11720------
+ Board.nn is = 46------
+ board simulation time end is = 539120.1511610762------
+ board simulation time start is = 527254.3583823987------
+ End segmentation of BEAST = 13991565------
+ BEAST Energy Vector Length = 976------
+ End BEAST = 13991565------
+start count: 1726785939.5754433
+start count: 1726785950.67867
+start count: 1726785961.7324684
+start count: 1726785973.1032825
+start count: 1726785984.2798927
+start count: 1726785995.637626
+start count: 1726786006.8629696
+start count: 1726786017.9694698
+start count: 1726786029.1261976
+start count: 1726786040.3880615
+start count: 1726786051.663864
+start count: 1726786062.9309058
+start count: 1726786074.1846387
+start count: 1726786085.4725158
+start count: 1726786096.8155448
+start count: 1726786108.1658778
+start count: 1726786119.4688163
+start count: 1726786131.1343918
+start count: 1726786143.0778039
+start count: 1726786154.9051785
+start count: 1726786166.6024256
+start count: 1726786177.9472435
+ Will you is = 14217201------
+ pt2 is = 13987101------
+ length of E is = 230100------
+ Start BEAST = 14217201------
+ Beast Freq is = 11720------
+ Board.nn is = 47------
+ board simulation time end is = 550840.0105338678------
+ board simulation time start is = 538909.5287790482------
+ End segmentation of BEAST = 14217201------
+ BEAST Energy Vector Length = 920------
+ End BEAST = 14217201------
+start count: 1726786191.2170186
+start count: 1726786202.1624153
+start count: 1726786213.3828533
+start count: 1726786224.6761024
+start count: 1726786235.850378
+start count: 1726786247.1250424
+start count: 1726786258.3586643
+start count: 1726786269.4869368
+start count: 1726786280.715711
+start count: 1726786291.8940828
+start count: 1726786303.068736
+start count: 1726786314.2660239
+start count: 1726786325.5209398
+start count: 1726786336.8044946
+start count: 1726786348.1247644
+start count: 1726786359.4478543
+start count: 1726786370.7895498
+start count: 1726786382.016324
+start count: 1726786393.219429
+start count: 1726786404.4213407
+start count: 1726786415.5496762
+start count: 1726786427.345631
+ Will you is = 14430758------
+ pt2 is = 14213946------
+ length of E is = 216812------
+ Start BEAST = 14430758------
+ Beast Freq is = 11720------
+ Board.nn is = 48------
+ board simulation time end is = 562560.0469315393------
+ board simulation time start is = 550692.2018208052------
+ End segmentation of BEAST = 14430758------
+ BEAST Energy Vector Length = 867------
+ End BEAST = 14430758------
+start count: 1726786440.2620323
+start count: 1726786452.1938624
+start count: 1726786463.5407686
+start count: 1726786474.624485
+start count: 1726786486.2952938
+start count: 1726786498.4395008
+start count: 1726786510.5413275
+start count: 1726786522.2878375
+start count: 1726786534.4223063
+start count: 1726786546.664258
+start count: 1726786558.2854598
+start count: 1726786569.5154605
+start count: 1726786581.6624062
+start count: 1726786593.8254452
+start count: 1726786606.0703259
+start count: 1726786617.8547716
+start count: 1726786630.0672987
+start count: 1726786642.3059351
+start count: 1726786654.494735
+start count: 1726786666.5542479
+start count: 1726786678.6273463
+start count: 1726786690.7892053
+start count: 1726786702.5188174
+ Will you is = 14669073------
+ pt2 is = 14425464------
+ length of E is = 243609------
+ Start BEAST = 14669073------
+ Beast Freq is = 11720------
+ Board.nn is = 49------
+ board simulation time end is = 574280.0492575439------
+ board simulation time start is = 562324.0593466996------
+ End segmentation of BEAST = 14669073------
+ BEAST Energy Vector Length = 974------
+ End BEAST = 14669073------
+start count: 1726786716.588425
+start count: 1726786728.8636959
+start count: 1726786741.1773403
+start count: 1726786753.4478226
+start count: 1726786765.614944
+start count: 1726786777.7263973
+start count: 1726786789.8193927
+start count: 1726786801.7367985
+start count: 1726786813.3792465
+start count: 1726786825.3759837
+start count: 1726786836.7888408
+start count: 1726786848.722943
+start count: 1726786861.040445
+start count: 1726786873.2853668
+start count: 1726786885.141779
+start count: 1726786896.5758119
+start count: 1726786908.810866
+start count: 1726786920.9443843
+start count: 1726786933.267732
+start count: 1726786945.449002
+start count: 1726786957.6351867
+start count: 1726786969.8235345
+start count: 1726786981.6192431
+start count: 1726786993.1458433
+start count: 1726787005.1924558
+ Will you is = 14913283------
+ pt2 is = 14666188------
+ length of E is = 247095------
+ Start BEAST = 14913283------
+ Beast Freq is = 11720------
+ Board.nn is = 50------
+ board simulation time end is = 586000.052914032------
+ board simulation time start is = 574151.7927683361------
+ End segmentation of BEAST = 14913283------
+ BEAST Energy Vector Length = 988------
+ End BEAST = 14913283------
+start count: 1726787019.01057
+start count: 1726787031.1464949
+start count: 1726787043.3974276
+start count: 1726787055.4330876
+start count: 1726787067.6401348
+start count: 1726787079.570278
+start count: 1726787091.4245212
+start count: 1726787103.559358
+start count: 1726787115.2007873
+start count: 1726787127.4299958
+start count: 1726787139.222611
+start count: 1726787151.514458
+start count: 1726787163.7467537
+start count: 1726787175.9379406
+start count: 1726787188.163049
+start count: 1726787200.2205083
+start count: 1726787212.3668306
+start count: 1726787224.0379581
+start count: 1726787235.6100984
+start count: 1726787247.7943013
+start count: 1726787259.8267832
+start count: 1726787272.0770767
+start count: 1726787284.281972
+start count: 1726787296.5329542
+ Will you is = 15150485------
+ pt2 is = 14910654------
+ length of E is = 239831------
+ Start BEAST = 15150485------
+ Beast Freq is = 11720------
+ Board.nn is = 51------
+ board simulation time end is = 597720.0013547835------
+ board simulation time start is = 585863.6367502146------
+ End segmentation of BEAST = 15150485------
+ BEAST Energy Vector Length = 959------
+ End BEAST = 15150485------
+start count: 1726787311.062161
+start count: 1726787322.9972534
+start count: 1726787334.6656559
+start count: 1726787346.0324097
+start count: 1726787358.2782328
+start count: 1726787370.4447184
+start count: 1726787382.1456292
+start count: 1726787393.8538616
+start count: 1726787405.7997231
+start count: 1726787417.5400753
+start count: 1726787429.4559944
+start count: 1726787441.1148999
+start count: 1726787452.5428283
+start count: 1726787464.4614897
+start count: 1726787476.6882432
+start count: 1726787488.8990738
+start count: 1726787501.153729
+start count: 1726787513.3741124
+start count: 1726787525.5062358
+start count: 1726787537.6740105
+start count: 1726787549.8281617
+start count: 1726787561.7839408
+start count: 1726787574.0170481
+start count: 1726787586.1693184
+ Will you is = 15392438------
+ pt2 is = 15146891------
+ length of E is = 245547------
+ Start BEAST = 15392438------
+ Beast Freq is = 11720------
+ Board.nn is = 52------
+ board simulation time end is = 609440.1705386181------
+ board simulation time start is = 597542.9588746418------
+ End segmentation of BEAST = 15392438------
+ BEAST Energy Vector Length = 982------
+ End BEAST = 15392438------
+start count: 1726787600.7284093
+start count: 1726787612.8872669
+start count: 1726787625.0804164
+start count: 1726787637.1594627
+start count: 1726787648.8953378
+start count: 1726787660.5198631
+start count: 1726787672.458716
+start count: 1726787684.6853485
+start count: 1726787696.893094
+start count: 1726787709.1986225
+start count: 1726787721.4074376
+start count: 1726787733.5643203
+start count: 1726787745.7740414
+start count: 1726787757.795183
+start count: 1726787769.6327069
+start count: 1726787781.301238
+start count: 1726787793.1403472
+start count: 1726787805.1856134
+start count: 1726787817.326306
+start count: 1726787829.5728345
+start count: 1726787841.808583
+start count: 1726787854.1084425
+start count: 1726787866.316423
+ Will you is = 15629791------
+ pt2 is = 15388741------
+ length of E is = 241050------
+ Start BEAST = 15629791------
+ Beast Freq is = 11720------
+ Board.nn is = 53------
+ board simulation time end is = 621160.1673685008------
+ board simulation time start is = 609255.9685417926------
+ End segmentation of BEAST = 15629791------
+ BEAST Energy Vector Length = 964------
+ End BEAST = 15629791------
+start count: 1726787880.8550758
+start count: 1726787893.087883
+start count: 1726787905.3301249
+start count: 1726787917.0805945
+start count: 1726787928.9770143
+start count: 1726787941.183435
+start count: 1726787953.2993965
+start count: 1726787965.1824694
+start count: 1726787977.295918
+start count: 1726787989.4721375
+start count: 1726788001.6268525
+start count: 1726788013.3413432
+start count: 1726788025.6589162
+start count: 1726788037.6633
+start count: 1726788049.913287
+start count: 1726788062.1240046
+start count: 1726788074.3492606
+start count: 1726788086.4760437
+start count: 1726788098.4290764
+start count: 1726788109.1908894
+start count: 1726788120.799843
+start count: 1726788132.8393898
+start count: 1726788144.7835317
+start count: 1726788156.974066
+start count: 1726788169.1200519
+ Will you is = 15870727------
+ pt2 is = 15626298------
+ length of E is = 244429------
+ Start BEAST = 15870727------
+ Beast Freq is = 11720------
+ Board.nn is = 54------
+ board simulation time end is = 632880.065977912------
+ board simulation time start is = 620984.6218873189------
+ End segmentation of BEAST = 15870727------
+ BEAST Energy Vector Length = 977------
+ End BEAST = 15870727------
+start count: 1726788183.208617
+start count: 1726788195.165043
+start count: 1726788207.3518274
+start count: 1726788219.5443957
+start count: 1726788231.573307
+start count: 1726788243.3300571
+start count: 1726788255.484068
+start count: 1726788267.3930786
+start count: 1726788279.6048715
+start count: 1726788291.779234
+start count: 1726788303.846424
+start count: 1726788315.3258653
+start count: 1726788326.6772587
+start count: 1726788338.4459877
+start count: 1726788350.2230737
+start count: 1726788361.6327846
+start count: 1726788372.9032543
+start count: 1726788384.1318505
+start count: 1726788395.376019
+start count: 1726788406.6327465
+start count: 1726788417.9078999
+start count: 1726788429.2141593
+ Will you is = 16094332------
+ pt2 is = 15864377------
+ length of E is = 229955------
+ Start BEAST = 16094332------
+ Beast Freq is = 11720------
+ Board.nn is = 55------
+ board simulation time end is = 644600.0459324168------
+ board simulation time start is = 632567.0869233039------
+ End segmentation of BEAST = 16094332------
+ BEAST Energy Vector Length = 919------
+ End BEAST = 16094332------
+start count: 1726788441.9600098
+start count: 1726788452.310719
+start count: 1726788463.3381078
+start count: 1726788474.2247589
+start count: 1726788484.2722356
+start count: 1726788494.117054
+start count: 1726788504.1580079
+start count: 1726788514.3025062
+start count: 1726788524.7838295
+start count: 1726788535.019972
+start count: 1726788545.6008651
+start count: 1726788555.171422
+start count: 1726788564.798195
+start count: 1726788574.8932722
+start count: 1726788585.8319044
+start count: 1726788595.8036375
+start count: 1726788605.5773814
+start count: 1726788615.1653311
+start count: 1726788624.3415976
+start count: 1726788633.3700562
+start count: 1726788642.7784755
+start count: 1726788652.5126612
+start count: 1726788662.7596211
+start count: 1726788674.119473
+start count: 1726788685.6541922
+start count: 1726788697.0356886
+start count: 1726788708.2633257
+start count: 1726788719.8250966
+start count: 1726788731.3872254
+start count: 1726788743.0346162
+start count: 1726788754.41581
+start count: 1726788765.1095564
+start count: 1726788776.6638834
+start count: 1726788788.0433173
+start count: 1726788799.335026
+start count: 1726788810.721721
+start count: 1726788822.011006
+ Will you is = 16464831------
+ pt2 is = 16417823------
+ length of E is = 47008------
+ Start BEAST = 16464831------
+ Beast Freq is = 11720------
+ Board.nn is = 56------
+ board simulation time end is = 656320.0246304804------
+ board simulation time start is = 652413.2135254577------
+ End BEAST = 16464831------
+start count: 1726788833.411763
+start count: 1726788844.7493865
+start count: 1726788856.102193
+start count: 1726788867.444982
+start count: 1726788878.7295327
+start count: 1726788890.0304208
+start count: 1726788901.3955305
+start count: 1726788912.554137
+start count: 1726788923.8376448
+start count: 1726788935.2154045
+start count: 1726788946.5344732
+start count: 1726788957.860747
+start count: 1726788969.3420599
+start count: 1726788980.697565
+ Will you is = 16603328------
+ pt2 is = 16463395------
+ length of E is = 139933------
+ Start BEAST = 16603328------
+ Beast Freq is = 11720------
+ Board.nn is = 57------
+ board simulation time end is = 668040.123710742------
+ board simulation time start is = 656194.5865459659------
+ End segmentation of BEAST = 16603328------
+ BEAST Energy Vector Length = 559------
+ End BEAST = 16603328------
+start count: 1726788992.9446464
+start count: 1726789004.1248841
+start count: 1726789015.2340026
+start count: 1726789026.9760242
+start count: 1726789038.340846
+start count: 1726789049.6760542
+start count: 1726789060.4135764
+start count: 1726789071.104676
+start count: 1726789082.4189088
+start count: 1726789094.104172
+start count: 1726789105.5285401
+start count: 1726789116.8165462
+start count: 1726789128.2278557
+start count: 1726789139.0872138
+start count: 1726789149.9565916
+start count: 1726789161.493073
+start count: 1726789172.3658416
+start count: 1726789183.827046
+start count: 1726789195.0409508
+start count: 1726789206.0872567
+start count: 1726789217.6174645
+start count: 1726789228.9157994
+start count: 1726789240.0134277
+start count: 1726789251.7030718
+start count: 1726789262.9983132
+start count: 1726789274.3108718
+start count: 1726789285.5797584
+ Will you is = 16877413------
+ pt2 is = 16831253------
+ length of E is = 46160------
+ Start BEAST = 16877413------
+ Beast Freq is = 11720------
+ Board.nn is = 58------
+ board simulation time end is = 679760.1140452063------
+ board simulation time start is = 675853.128791152------
+ End BEAST = 16877413------
+start count: 1726789297.0208204
+start count: 1726789308.4298987
+start count: 1726789319.7370796
+start count: 1726789331.0616095
+start count: 1726789342.4002929
+start count: 1726789353.6420121
+start count: 1726789364.9659278
+start count: 1726789376.2750432
+start count: 1726789387.5700712
+start count: 1726789398.8848722
+start count: 1726789410.1867993
+start count: 1726789421.5724556
+start count: 1726789432.944892
+start count: 1726789444.288702
+ Will you is = 17015359------
+ pt2 is = 16875540------
+ length of E is = 139819------
+ Start BEAST = 17015359------
+ Beast Freq is = 11720------
+ Board.nn is = 59------
+ board simulation time end is = 691480.0471424048------
+ board simulation time start is = 679598.3269835118------
+ End segmentation of BEAST = 17015359------
+ BEAST Energy Vector Length = 559------
+ End BEAST = 17015359------
+start count: 1726789456.4228923
+start count: 1726789467.7487276
+start count: 1726789479.1178994
+start count: 1726789490.443546
+start count: 1726789501.7467744
+start count: 1726789513.1021674
+start count: 1726789524.4232216
+start count: 1726789535.7287207
+start count: 1726789547.100444
+start count: 1726789558.420755
+start count: 1726789569.9081726
+start count: 1726789581.2772043
+start count: 1726789592.5662835
+start count: 1726789603.9153254
+ Will you is = 17153723------
+ pt2 is = 17011441------
+ length of E is = 142282------
+ Start BEAST = 17153723------
+ Beast Freq is = 11720------
+ Board.nn is = 60------
+ board simulation time end is = 703200.711833178------
+ board simulation time start is = 691155.4335239052------
+ End segmentation of BEAST = 17153723------
+ BEAST Energy Vector Length = 569------
+ End BEAST = 17153723------
+start count: 1726789616.3244524
+start count: 1726789627.5741308
+start count: 1726789638.034036
+start count: 1726789649.1767802
+start count: 1726789660.4944217
+start count: 1726789671.4598923
+start count: 1726789682.3499634
+start count: 1726789693.1487505
+start count: 1726789704.3695183
+start count: 1726789715.9347482
+start count: 1726789727.469224
+start count: 1726789739.0680046
+start count: 1726789750.381154
+start count: 1726789761.767665
+start count: 1726789773.3898957
+start count: 1726789784.6589487
+start count: 1726789796.0864108
+start count: 1726789806.57516
+start count: 1726789817.3896885
+start count: 1726789828.9359674
+start count: 1726789840.3071427
+start count: 1726789851.4020705
+start count: 1726789862.990996
+start count: 1726789874.6758928
+start count: 1726789885.9630833
+start count: 1726789897.2936735
+start count: 1726789908.5691435
+ Will you is = 17429920------
+ pt2 is = 17383873------
+ length of E is = 46047------
+ Start BEAST = 17429920------
+ Beast Freq is = 11720------
+ Board.nn is = 61------
+ board simulation time end is = 714920.308815621------
+ board simulation time start is = 711013.7198485747------
+ End BEAST = 17429920------
+start count: 1726789920.1069307
+start count: 1726789931.4454339
+start count: 1726789942.780314
+start count: 1726789954.2138438
+start count: 1726789965.4868383
+start count: 1726789976.750681
+start count: 1726789988.0812738
+start count: 1726789999.3860035
+start count: 1726790010.6402118
+start count: 1726790021.9342902
+start count: 1726790033.2346277
+start count: 1726790044.5117605
+start count: 1726790055.5676374
+start count: 1726790066.9715054
+ Will you is = 17567965------
+ pt2 is = 17428224------
+ length of E is = 139741------
+ Start BEAST = 17567965------
+ Beast Freq is = 11720------
+ Board.nn is = 62------
+ board simulation time end is = 726640.15505421------
+ board simulation time start is = 714767.6145442025------
+ End segmentation of BEAST = 17567965------
+ BEAST Energy Vector Length = 558------
+ End BEAST = 17567965------
+start count: 1726790079.1590557
+start count: 1726790090.467536
+start count: 1726790101.8337843
+start count: 1726790113.131077
+start count: 1726790124.4305797
+start count: 1726790135.8011553
+start count: 1726790147.074624
+start count: 1726790158.372202
+start count: 1726790169.7544267
+start count: 1726790181.1763213
+start count: 1726790192.5380137
+start count: 1726790203.8305213
+start count: 1726790215.1450844
+start count: 1726790226.4472601
+ Will you is = 17705847------
+ pt2 is = 17563272------
+ length of E is = 142575------
+ Start BEAST = 17705847------
+ Beast Freq is = 11720------
+ Board.nn is = 63------
+ board simulation time end is = 738360.1372717925------
+ board simulation time start is = 726237.0557915848------
+ End segmentation of BEAST = 17705847------
+ BEAST Energy Vector Length = 570------
+ End BEAST = 17705847------
+start count: 1726790238.9093623
+start count: 1726790249.7502322
+start count: 1726790260.8268216
+start count: 1726790271.754725
+start count: 1726790283.330733
+start count: 1726790295.0147774
+start count: 1726790306.3041666
+start count: 1726790316.5701632
+start count: 1726790326.9244928
+start count: 1726790337.7832096
+start count: 1726790348.820243
+start count: 1726790359.4567533
+start count: 1726790369.7836702
+start count: 1726790379.5667021
+start count: 1726790389.0535524
+start count: 1726790399.2179697
+start count: 1726790409.1707504
+start count: 1726790418.7455034
+start count: 1726790428.330813
+start count: 1726790439.2698808
+start count: 1726790450.2563248
+start count: 1726790461.7790089
+start count: 1726790471.8692114
+start count: 1726790483.011035
+start count: 1726790493.6750774
+start count: 1726790505.3598418
+start count: 1726790517.5240283
+start count: 1726790528.8804011
+start count: 1726790540.2996173
+start count: 1726790551.5083327
+start count: 1726790562.8743293
+ Will you is = 18015551------
+ pt2 is = 17969623------
+ length of E is = 45928------
+ Start BEAST = 18015551------
+ Beast Freq is = 11720------
+ Board.nn is = 64------
+ board simulation time end is = 750080.001820923------
+ board simulation time start is = 746173.1441767332------
+ End BEAST = 18015551------
+start count: 1726790574.5065145
+start count: 1726790586.05257
+start count: 1726790597.4468584
+start count: 1726790608.7856653
+start count: 1726790619.9194047
+start count: 1726790630.5994256
+start count: 1726790642.0824127
+start count: 1726790653.5495849
+start count: 1726790665.2464983
+start count: 1726790676.708977
+start count: 1726790688.2135613
+start count: 1726790699.6870136
+start count: 1726790711.3210151
+start count: 1726790722.354541
+start count: 1726790733.9287364
+start count: 1726790745.040605
+start count: 1726790756.6910794
+start count: 1726790768.1728802
+start count: 1726790779.2139163
+start count: 1726790790.6303887
+start count: 1726790802.0213113
+start count: 1726790813.3868828
+start count: 1726790824.7440019
+start count: 1726790836.1018949
+start count: 1726790847.4973829
+start count: 1726790858.9547403
+start count: 1726790870.310332
+ Will you is = 18285527------
+ pt2 is = 18239516------
+ length of E is = 46011------
+ Start BEAST = 18285527------
+ Beast Freq is = 11720------
+ Board.nn is = 65------
+ board simulation time end is = 761800.0056515905------
+ board simulation time start is = 757893.0194239633------
+ End BEAST = 18285527------
+start count: 1726790881.7257783
+start count: 1726790893.0441682
+start count: 1726790904.4327362
+start count: 1726790915.939429
+start count: 1726790927.311389
+start count: 1726790938.6351733
+start count: 1726790949.9577644
+start count: 1726790961.2509334
+start count: 1726790972.588988
+start count: 1726790983.8865974
+start count: 1726790995.2235076
+start count: 1726791006.5830128
+start count: 1726791018.00092
+start count: 1726791029.4336452
+ Will you is = 18422831------
+ pt2 is = 18283506------
+ length of E is = 139325------
+ Start BEAST = 18422831------
+ Beast Freq is = 11720------
+ Board.nn is = 66------
+ board simulation time end is = 773520.4332831758------
+ board simulation time start is = 761628.8169719832------
+ End segmentation of BEAST = 18422831------
+ BEAST Energy Vector Length = 557------
+ End BEAST = 18422831------
+start count: 1726791041.6883943
+start count: 1726791053.0169263
+start count: 1726791064.308362
+start count: 1726791075.7597663
+start count: 1726791086.7307703
+start count: 1726791097.9773402
+start count: 1726791109.2618828
+start count: 1726791120.6365285
+start count: 1726791131.9103243
+start count: 1726791143.1573322
+start count: 1726791154.4590602
+start count: 1726791165.6578612
+start count: 1726791176.9602432
+start count: 1726791188.2151759
+ Will you is = 18561854------
+ pt2 is = 18419620------
+ length of E is = 142234------
+ Start BEAST = 18561854------
+ Beast Freq is = 11720------
+ Board.nn is = 67------
+ board simulation time end is = 785240.8310346344------
+ board simulation time start is = 773236.1257328964------
+ End segmentation of BEAST = 18561854------
+ BEAST Energy Vector Length = 568------
+ End BEAST = 18561854------
+start count: 1726791200.1248178
+start count: 1726791211.424025
+start count: 1726791222.704122
+start count: 1726791234.0266752
+start count: 1726791245.4238057
+start count: 1726791256.5901527
+start count: 1726791267.8752525
+start count: 1726791279.166647
+start count: 1726791290.4388366
+start count: 1726791301.7092187
+start count: 1726791313.0248559
+start count: 1726791324.292017
+start count: 1726791335.6639
+ Will you is = 18699809------
+ pt2 is = 18558478------
+ length of E is = 141331------
+ Start BEAST = 18699809------
+ Beast Freq is = 11720------
+ Board.nn is = 68------
+ board simulation time end is = 796960.0953112827------
+ board simulation time start is = 784945.950518315------
+ End segmentation of BEAST = 18699809------
+ BEAST Energy Vector Length = 565------
+ End BEAST = 18699809------
+start count: 1726791347.845177
+start count: 1726791359.2234836
+start count: 1726791370.8284972
+start count: 1726791381.7792175
+start count: 1726791393.133224
+start count: 1726791404.6446948
+start count: 1726791415.8344717
+start count: 1726791426.2445939
+start count: 1726791437.042512
+start count: 1726791447.6881294
+start count: 1726791458.1283407
+start count: 1726791468.4001565
+start count: 1726791479.820554
+start count: 1726791491.3254488
+start count: 1726791502.3844237
+start count: 1726791513.6378658
+start count: 1726791525.1727672
+start count: 1726791535.1842382
+start count: 1726791546.4401424
+start count: 1726791558.1219058
+start count: 1726791569.6827648
+start count: 1726791580.841221
+start count: 1726791591.4342117
+start count: 1726791602.2131827
+start count: 1726791613.1131666
+start count: 1726791624.4983947
+start count: 1726791635.7286623
+start count: 1726791646.9381151
+start count: 1726791658.232963
+ Will you is = 18985880------
+ pt2 is = 18940104------
+ length of E is = 45776------
+ Start BEAST = 18985880------
+ Beast Freq is = 11720------
+ Board.nn is = 69------
+ board simulation time end is = 808680.067474375------
+ board simulation time start is = 804773.1178649712------
+ End BEAST = 18985880------
+start count: 1726791669.7757967
+start count: 1726791681.1056612
+start count: 1726791692.3805864
+start count: 1726791703.5791261
+start count: 1726791714.9313788
+start count: 1726791726.2370849
+start count: 1726791737.562042
+start count: 1726791748.7979674
+start count: 1726791760.0820165
+start count: 1726791771.4533162
+start count: 1726791782.8819027
+start count: 1726791794.2835774
+start count: 1726791805.7220147
+start count: 1726791816.9984705
+ Will you is = 19124458------
+ pt2 is = 18983865------
+ length of E is = 140593------
+ Start BEAST = 19124458------
+ Beast Freq is = 11720------
+ Board.nn is = 70------
+ board simulation time end is = 820400.0005058504------
+ board simulation time start is = 808506.9821749504------
+ End segmentation of BEAST = 19124458------
+ BEAST Energy Vector Length = 562------
+ End BEAST = 19124458------
+start count: 1726791829.1281705
+start count: 1726791840.372929
+start count: 1726791851.675879
+start count: 1726791863.041473
+start count: 1726791874.4019432
+start count: 1726791885.6755414
+start count: 1726791896.919598
+start count: 1726791908.1737068
+start count: 1726791919.3837433
+start count: 1726791930.6416132
+start count: 1726791941.972757
+start count: 1726791953.1488125
+start count: 1726791964.3771658
+start count: 1726791975.579984
+ Will you is = 19261706------
+ pt2 is = 19107130------
+ length of E is = 154576------
+ Start BEAST = 19261706------
+ Beast Freq is = 11720------
+ Board.nn is = 71------
+ board simulation time end is = 832120.2949637249------
+ board simulation time start is = 818911.6499139974------
+ End segmentation of BEAST = 19261706------
+ BEAST Energy Vector Length = 618------
+ End BEAST = 19261706------
+start count: 1726791987.6770916
+start count: 1726791998.9619334
+start count: 1726792010.2190082
+start count: 1726792021.5733469
+start count: 1726792032.7386634
+start count: 1726792044.024215
+start count: 1726792055.2985828
+start count: 1726792066.5816624
+start count: 1726792077.8477592
+start count: 1726792089.0898805
+start count: 1726792100.3601232
+start count: 1726792111.639674
+start count: 1726792122.8850102
+ Will you is = 19399951------
+ pt2 is = 19258892------
+ length of E is = 141059------
+ Start BEAST = 19399951------
+ Beast Freq is = 11720------
+ Board.nn is = 72------
+ board simulation time end is = 843840.1623950596------
+ board simulation time start is = 831878.6261268605------
+ End segmentation of BEAST = 19399951------
+ BEAST Energy Vector Length = 564------
+ End BEAST = 19399951------
+start count: 1726792134.9167519
+start count: 1726792146.1861582
+start count: 1726792157.3914413
+start count: 1726792168.6647258
+start count: 1726792179.9282491
+start count: 1726792191.1606817
+start count: 1726792202.440873
+start count: 1726792213.7045722
+start count: 1726792224.9975457
+start count: 1726792236.2194135
+start count: 1726792247.5263433
+start count: 1726792258.768222
+start count: 1726792270.037376
+start count: 1726792280.97871
+ Will you is = 19539359------
+ pt2 is = 19396894------
+ length of E is = 142465------
+ Start BEAST = 19539359------
+ Beast Freq is = 11720------
+ Board.nn is = 73------
+ board simulation time end is = 855560.013276655------
+ board simulation time start is = 843580.436396151------
+ End segmentation of BEAST = 19539359------
+ BEAST Energy Vector Length = 569------
+ End BEAST = 19539359------
+start count: 1726792293.2019696
+start count: 1726792304.6407526
+start count: 1726792316.6990654
+start count: 1726792328.335357
+start count: 1726792339.564831
+start count: 1726792350.8774917
+start count: 1726792362.1750515
+start count: 1726792373.4189274
+start count: 1726792384.6824691
+start count: 1726792396.009568
+start count: 1726792407.340729
+start count: 1726792418.6385565
+start count: 1726792429.9214375
+start count: 1726792441.22874
+ Will you is = 19677677------
+ pt2 is = 19529273------
+ length of E is = 148404------
+ Start BEAST = 19677677------
+ Beast Freq is = 11720------
+ Board.nn is = 74------
+ board simulation time end is = 867280.0220697861------
+ board simulation time start is = 854679.6579075045------
+ End segmentation of BEAST = 19677677------
+ BEAST Energy Vector Length = 593------
+ End BEAST = 19677677------
+start count: 1726792453.3048797
+start count: 1726792464.544322
+start count: 1726792475.8892608
+start count: 1726792487.2575617
+start count: 1726792498.5412452
+start count: 1726792509.8485734
+start count: 1726792521.1661236
+start count: 1726792532.4555106
+start count: 1726792543.714497
+start count: 1726792554.9482446
+start count: 1726792566.2114224
+start count: 1726792577.4611526
+start count: 1726792588.7112963
+start count: 1726792599.9541268
+ Will you is = 19815375------
+ pt2 is = 19673621------
+ length of E is = 141754------
+ Start BEAST = 19815375------
+ Beast Freq is = 11720------
+ Board.nn is = 75------
+ board simulation time end is = 879000.0540392238------
+ board simulation time start is = 866948.129163079------
+ End segmentation of BEAST = 19815375------
+ BEAST Energy Vector Length = 567------
+ End BEAST = 19815375------
+start count: 1726792612.154687
+start count: 1726792623.7787876
+start count: 1726792634.2669585
+start count: 1726792645.5024197
+start count: 1726792656.2032504
+start count: 1726792667.1945682
+start count: 1726792678.1600883
+start count: 1726792689.846663
+start count: 1726792701.386367
+start count: 1726792712.6680846
+start count: 1726792724.1723897
+start count: 1726792735.7737644
+start count: 1726792747.3896067
+start count: 1726792758.973022
+start count: 1726792770.5234342
+start count: 1726792781.8449085
+start count: 1726792792.153942
+start count: 1726792803.1662593
+end time: 03:40:21
+

@@ -1,0 +1,2595 @@
+{'length': 15, 'num_of_particles': 25, 'targets_cfg': [<simulation_cfg.TargetCfg object at 0x2b4d2ab07550>], 'is_cyclic': True, 'seed_matrix': [[0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]], 'rel_amp': 0.85, 'rel_time': 1}[{'weak_interaction': -1, 'strong_interaction': -7, 'num_of_instances': 2, 'local_drive': 0}]beginning sim with with strong interaction = -3.5------
+beginning run with mu =0.0 and with interaction =-3.5------
+start time: 14:27:28
+start count: 1723116448.854911
+start count: 1723116448.866156
+ medium command is = 0------
+start count: 1723116465.6722674
+start count: 1723116486.7830222
+start count: 1723116508.8263059
+start count: 1723116531.8702037
+start count: 1723116554.778918
+start count: 1723116576.786304
+start count: 1723116599.3023632
+start count: 1723116621.066351
+start count: 1723116645.0106542
+start count: 1723116668.1195421
+start count: 1723116689.5303366
+start count: 1723116712.355682
+start count: 1723116735.2631104
+start count: 1723116758.270432
+start count: 1723116780.3361375
+start count: 1723116801.5862038
+start count: 1723116823.5883121
+start count: 1723116845.6062317
+start count: 1723116867.2042677
+start count: 1723116888.9452617
+start count: 1723116909.8770409
+start count: 1723116931.0153723
+start count: 1723116950.8819964
+start count: 1723116970.4259374
+start count: 1723116993.0682468
+start count: 1723117015.5232599
+start count: 1723117036.74816
+start count: 1723117059.4689462
+start count: 1723117082.8499944
+start count: 1723117105.7251465
+start count: 1723117127.7938306
+ Will you is = 319419------
+ Start BEAST = 319419------
+ End segmentation of BEAST = 319419------
+ BEAST Energy Vector Length = 1277------
+ End BEAST = 319419------
+start count: 1723117157.0291135
+start count: 1723117180.0064492
+start count: 1723117201.4944882
+start count: 1723117223.4245121
+start count: 1723117245.9959507
+start count: 1723117268.7716699
+start count: 1723117291.0827281
+start count: 1723117308.9466832
+start count: 1723117331.1671169
+start count: 1723117353.7428987
+start count: 1723117376.0286758
+start count: 1723117398.8206615
+start count: 1723117421.180193
+start count: 1723117444.4780068
+start count: 1723117466.7496054
+start count: 1723117487.4997828
+start count: 1723117508.9856303
+start count: 1723117531.1315026
+start count: 1723117553.954693
+start count: 1723117577.2988672
+start count: 1723117600.5698006
+start count: 1723117623.1597817
+start count: 1723117646.2178986
+start count: 1723117669.60327
+start count: 1723117692.1069164
+start count: 1723117714.0548656
+start count: 1723117737.1263819
+start count: 1723117759.815902
+start count: 1723117782.596534
+start count: 1723117804.8136725
+start count: 1723117826.9772713
+ Will you is = 624143------
+ Start BEAST = 624143------
+ End segmentation of BEAST = 624143------
+ BEAST Energy Vector Length = 1250------
+ End BEAST = 624143------
+start count: 1723117856.1050177
+start count: 1723117878.7965744
+start count: 1723117900.693794
+start count: 1723117921.719316
+start count: 1723117943.8823798
+start count: 1723117966.3427644
+start count: 1723117989.2261221
+start count: 1723118012.4236372
+start count: 1723118035.0686414
+start count: 1723118058.0784922
+start count: 1723118080.27135
+start count: 1723118103.95103
+start count: 1723118127.1462808
+start count: 1723118148.9652026
+start count: 1723118170.6336377
+start count: 1723118193.3529422
+start count: 1723118216.332104
+start count: 1723118238.6983356
+start count: 1723118259.120654
+start count: 1723118281.363772
+start count: 1723118303.5026617
+start count: 1723118325.8121293
+start count: 1723118346.8960245
+start count: 1723118367.7807827
+start count: 1723118390.186211
+start count: 1723118413.015309
+start count: 1723118435.386323
+start count: 1723118456.8000796
+start count: 1723118478.1295702
+ Will you is = 918260------
+ Start BEAST = 918260------
+ End segmentation of BEAST = 918260------
+ BEAST Energy Vector Length = 1193------
+ End BEAST = 918260------
+start count: 1723118506.8368993
+start count: 1723118528.324049
+start count: 1723118551.8892038
+start count: 1723118574.056801
+start count: 1723118595.63273
+start count: 1723118618.1104727
+start count: 1723118640.4365633
+start count: 1723118662.363556
+start count: 1723118683.9245589
+start count: 1723118703.249075
+start count: 1723118722.2089734
+start count: 1723118744.850231
+start count: 1723118766.507335
+start count: 1723118788.886978
+start count: 1723118812.2664504
+start count: 1723118835.8081086
+start count: 1723118857.5182426
+start count: 1723118879.5793552
+start count: 1723118900.4857984
+start count: 1723118918.2000704
+start count: 1723118939.3297305
+start count: 1723118961.4813144
+start count: 1723118983.3950157
+start count: 1723119005.3492115
+start count: 1723119027.2082393
+ Will you is = 1167614------
+ Start BEAST = 1167614------
+ End segmentation of BEAST = 1167614------
+ BEAST Energy Vector Length = 1016------
+ End BEAST = 1167614------
+start count: 1723119053.435262
+start count: 1723119076.2105916
+start count: 1723119098.2894938
+start count: 1723119120.3350427
+start count: 1723119142.9017282
+start count: 1723119165.2083075
+start count: 1723119188.3870206
+start count: 1723119210.3081894
+start count: 1723119232.2232697
+start count: 1723119255.1237764
+start count: 1723119277.105522
+start count: 1723119300.687672
+start count: 1723119323.662835
+start count: 1723119344.1232698
+start count: 1723119367.4487033
+start count: 1723119391.3217797
+start count: 1723119414.8975499
+start count: 1723119438.9484036
+start count: 1723119460.9925046
+start count: 1723119484.162333
+start count: 1723119507.2264721
+start count: 1723119529.0194864
+start count: 1723119548.2910457
+start count: 1723119572.3726845
+start count: 1723119595.4321787
+ Will you is = 1410332------
+ Start BEAST = 1410332------
+ End segmentation of BEAST = 1410332------
+ BEAST Energy Vector Length = 979------
+ End BEAST = 1410332------
+start count: 1723119624.5805788
+start count: 1723119648.1223881
+start count: 1723119672.1684902
+start count: 1723119696.2575
+start count: 1723119719.631563
+start count: 1723119742.1485736
+start count: 1723119765.2589893
+start count: 1723119787.4160807
+start count: 1723119810.0425003
+start count: 1723119831.9402552
+start count: 1723119853.2579675
+start count: 1723119874.6891208
+start count: 1723119898.6831214
+start count: 1723119922.2130246
+start count: 1723119943.051458
+start count: 1723119965.0715582
+start count: 1723119987.7773783
+start count: 1723120009.152863
+start count: 1723120032.21241
+start count: 1723120055.4131744
+start count: 1723120079.4099393
+start count: 1723120102.5840304
+ Will you is = 1633580------
+ Start BEAST = 1633580------
+ End segmentation of BEAST = 1633580------
+ BEAST Energy Vector Length = 909------
+ End BEAST = 1633580------
+start count: 1723120130.2162642
+start count: 1723120153.2081203
+start count: 1723120176.9916162
+start count: 1723120197.9692774
+start count: 1723120219.4445214
+start count: 1723120242.77661
+start count: 1723120265.209213
+start count: 1723120288.261521
+start count: 1723120312.0316818
+start count: 1723120336.1182172
+start count: 1723120358.6547377
+start count: 1723120381.5386245
+start count: 1723120405.852293
+start count: 1723120429.3680696
+start count: 1723120451.8941727
+start count: 1723120474.4328606
+start count: 1723120496.8205733
+start count: 1723120520.9162176
+start count: 1723120543.1261005
+start count: 1723120564.9423375
+start count: 1723120582.8257134
+start count: 1723120606.4177613
+start count: 1723120629.317446
+ Will you is = 1864548------
+ Start BEAST = 1864548------
+ End segmentation of BEAST = 1864548------
+ BEAST Energy Vector Length = 937------
+ End BEAST = 1864548------
+start count: 1723120655.2253895
+start count: 1723120679.2702196
+start count: 1723120703.033208
+start count: 1723120724.820344
+start count: 1723120747.599127
+start count: 1723120770.130309
+start count: 1723120793.200818
+start count: 1723120817.1106772
+start count: 1723120840.192444
+start count: 1723120861.89175
+start count: 1723120881.4682684
+start count: 1723120899.4941711
+start count: 1723120919.001249
+start count: 1723120941.3762965
+start count: 1723120959.1918113
+start count: 1723120979.591303
+start count: 1723121003.4972188
+start count: 1723121026.95602
+start count: 1723121050.7243385
+start count: 1723121073.1813607
+start count: 1723121094.7969396
+start count: 1723121117.7650893
+start count: 1723121140.538013
+start count: 1723121163.4344678
+ Will you is = 2101162------
+ Start BEAST = 2101162------
+ End segmentation of BEAST = 2101162------
+ BEAST Energy Vector Length = 961------
+ End BEAST = 2101162------
+start count: 1723121189.517022
+start count: 1723121212.875968
+start count: 1723121235.24568
+start count: 1723121259.4621356
+start count: 1723121281.242215
+start count: 1723121301.5171897
+start count: 1723121323.1593568
+start count: 1723121342.4997914
+start count: 1723121365.5385885
+start count: 1723121389.4204817
+start count: 1723121413.9551265
+start count: 1723121438.3442867
+start count: 1723121461.8147347
+start count: 1723121486.3312354
+start count: 1723121509.7628653
+start count: 1723121534.3440185
+start count: 1723121557.0704615
+start count: 1723121572.5280678
+start count: 1723121595.0313647
+start count: 1723121609.3992822
+start count: 1723121624.366591
+start count: 1723121648.716244
+ Will you is = 2323039------
+ Start BEAST = 2323039------
+ End segmentation of BEAST = 2323039------
+ BEAST Energy Vector Length = 898------
+ End BEAST = 2323039------
+start count: 1723121674.1946094
+start count: 1723121696.3549738
+start count: 1723121719.2323132
+start count: 1723121739.197564
+start count: 1723121754.5761316
+start count: 1723121768.1894717
+start count: 1723121787.6891584
+start count: 1723121811.8798363
+start count: 1723121833.0093138
+start count: 1723121856.608171
+start count: 1723121880.563953
+start count: 1723121904.306587
+start count: 1723121927.670019
+start count: 1723121951.6992543
+start count: 1723121975.0143325
+start count: 1723121998.5462155
+start count: 1723122022.4331684
+start count: 1723122044.146459
+start count: 1723122067.401575
+start count: 1723122088.0242348
+start count: 1723122111.235341
+start count: 1723122135.0961454
+ Will you is = 2542798------
+ Start BEAST = 2542798------
+ End segmentation of BEAST = 2542798------
+ BEAST Energy Vector Length = 891------
+ End BEAST = 2542798------
+start count: 1723122162.0258877
+start count: 1723122185.5229917
+start count: 1723122209.0613601
+start count: 1723122231.2577875
+start count: 1723122255.047329
+start count: 1723122275.9293532
+start count: 1723122299.619329
+start count: 1723122323.2454882
+start count: 1723122345.0538738
+start count: 1723122366.2446554
+start count: 1723122386.8112807
+start count: 1723122406.5747352
+start count: 1723122427.4833214
+start count: 1723122449.4885023
+start count: 1723122473.242133
+start count: 1723122497.7093768
+start count: 1723122520.3974745
+start count: 1723122544.4283419
+start count: 1723122567.6002967
+start count: 1723122591.2592902
+start count: 1723122614.5087314
+start count: 1723122638.4199111
+ Will you is = 2760963------
+ Start BEAST = 2760963------
+ End segmentation of BEAST = 2760963------
+ BEAST Energy Vector Length = 884------
+ End BEAST = 2760963------
+start count: 1723122663.787694
+start count: 1723122686.5384672
+start count: 1723122710.2689488
+start count: 1723122733.061634
+start count: 1723122756.5785515
+start count: 1723122780.2619445
+start count: 1723122800.3149483
+start count: 1723122821.2586226
+start count: 1723122844.9294238
+start count: 1723122868.9289777
+start count: 1723122891.0161948
+start count: 1723122910.2125237
+start count: 1723122931.829303
+start count: 1723122953.9617436
+start count: 1723122976.7469926
+start count: 1723122996.4252722
+start count: 1723123019.2422364
+start count: 1723123041.8464355
+start count: 1723123063.5204618
+start count: 1723123087.3057425
+start count: 1723123110.5465775
+start count: 1723123132.5023386
+ Will you is = 2983344------
+ Start BEAST = 2983344------
+ End segmentation of BEAST = 2983344------
+ BEAST Energy Vector Length = 919------
+ End BEAST = 2983344------
+start count: 1723123158.013514
+start count: 1723123181.2987916
+start count: 1723123204.0361705
+start count: 1723123224.9979715
+start count: 1723123245.1968362
+start count: 1723123268.2262652
+start count: 1723123290.6274867
+start count: 1723123314.6307094
+start count: 1723123338.246463
+start count: 1723123359.222191
+start count: 1723123381.7946136
+start count: 1723123404.1932857
+start count: 1723123426.2999856
+start count: 1723123450.7919466
+start count: 1723123475.3826926
+start count: 1723123499.16565
+start count: 1723123517.5444572
+start count: 1723123538.9568152
+start count: 1723123561.878017
+start count: 1723123586.146864
+start count: 1723123610.9459589
+start count: 1723123630.6735303
+start count: 1723123654.5607386
+ Will you is = 3216953------
+ Start BEAST = 3216953------
+ End segmentation of BEAST = 3216953------
+ BEAST Energy Vector Length = 951------
+ End BEAST = 3216953------
+start count: 1723123681.8228247
+start count: 1723123706.286741
+start count: 1723123730.0246897
+start count: 1723123754.4208248
+start count: 1723123778.4568508
+start count: 1723123802.103731
+start count: 1723123824.4734926
+start count: 1723123848.2075555
+start count: 1723123872.2377672
+start count: 1723123893.6252816
+start count: 1723123916.2133467
+start count: 1723123939.7477868
+start count: 1723123964.0230482
+start count: 1723123987.1867886
+start count: 1723124011.9081368
+start count: 1723124036.5472639
+start count: 1723124059.5005288
+start count: 1723124082.8786957
+start count: 1723124107.778844
+start count: 1723124132.5843298
+ Will you is = 3418412------
+ Start BEAST = 3418412------
+ End segmentation of BEAST = 3418412------
+ BEAST Energy Vector Length = 815------
+ End BEAST = 3418412------
+start count: 1723124160.157229
+start count: 1723124185.1337755
+start count: 1723124209.9806404
+start count: 1723124234.029183
+start count: 1723124257.969274
+start count: 1723124282.3219826
+start count: 1723124306.18264
+start count: 1723124330.2818565
+start count: 1723124354.5383887
+start count: 1723124379.1226635
+start count: 1723124403.1461294
+start count: 1723124425.5917048
+start count: 1723124448.1245887
+start count: 1723124471.7088108
+start count: 1723124495.5054502
+start count: 1723124518.5686235
+start count: 1723124542.4378903
+start count: 1723124563.3226094
+start count: 1723124587.0697906
+start count: 1723124610.8752253
+start count: 1723124635.033007
+start count: 1723124658.4358628
+start count: 1723124681.4581072
+ Will you is = 3643095------
+ Start BEAST = 3643095------
+ End segmentation of BEAST = 3643095------
+ BEAST Energy Vector Length = 910------
+ End BEAST = 3643095------
+start count: 1723124707.6131835
+start count: 1723124732.4140477
+start count: 1723124757.3516648
+start count: 1723124781.5581424
+start count: 1723124805.631847
+start count: 1723124830.2092605
+start count: 1723124854.9313416
+start count: 1723124879.4861014
+start count: 1723124904.086297
+start count: 1723124928.0353801
+start count: 1723124951.8446355
+start count: 1723124976.267492
+start count: 1723125000.5554006
+start count: 1723125024.759168
+start count: 1723125049.192299
+start count: 1723125073.8368883
+start count: 1723125097.825487
+start count: 1723125121.5139868
+start count: 1723125145.6040642
+start count: 1723125168.4444048
+start count: 1723125191.914314
+start count: 1723125214.6883717
+ Will you is = 3864089------
+ Start BEAST = 3864089------
+ End segmentation of BEAST = 3864089------
+ BEAST Energy Vector Length = 906------
+ End BEAST = 3864089------
+start count: 1723125239.2989135
+start count: 1723125262.835922
+start count: 1723125285.9452012
+start count: 1723125309.4816694
+start count: 1723125332.9782114
+start count: 1723125356.531925
+start count: 1723125379.1242738
+start count: 1723125400.948118
+start count: 1723125424.283416
+start count: 1723125447.409887
+start count: 1723125467.2947948
+start count: 1723125487.3085434
+start count: 1723125507.6810799
+start count: 1723125528.5847912
+start count: 1723125549.7174718
+start count: 1723125572.0060833
+start count: 1723125596.6136608
+start count: 1723125617.278532
+start count: 1723125636.1536288
+start count: 1723125658.130906
+start count: 1723125681.3477905
+start count: 1723125704.4600847
+start count: 1723125726.185219
+ Will you is = 4091138------
+ Start BEAST = 4091138------
+ End segmentation of BEAST = 4091138------
+ BEAST Energy Vector Length = 918------
+ End BEAST = 4091138------
+start count: 1723125751.6688058
+start count: 1723125775.2268188
+start count: 1723125797.8350725
+start count: 1723125820.2587948
+start count: 1723125842.853361
+start count: 1723125865.730502
+start count: 1723125889.8077865
+start count: 1723125913.8128963
+start count: 1723125937.75225
+start count: 1723125961.812277
+start count: 1723125982.5131671
+start count: 1723126004.5879045
+start count: 1723126026.4234226
+start count: 1723126050.6511216
+start count: 1723126072.9014075
+start count: 1723126096.6025825
+start count: 1723126114.2770052
+start count: 1723126136.8990054
+start count: 1723126159.6385531
+start count: 1723126182.420386
+start count: 1723126205.591118
+ Will you is = 4305492------
+ Start BEAST = 4305492------
+ End segmentation of BEAST = 4305492------
+ BEAST Energy Vector Length = 870------
+ End BEAST = 4305492------
+start count: 1723126230.941338
+start count: 1723126253.9276502
+start count: 1723126276.5824518
+start count: 1723126298.8938441
+start count: 1723126321.7210133
+start count: 1723126344.4820597
+start count: 1723126365.3708735
+start count: 1723126388.129814
+start count: 1723126411.020976
+start count: 1723126433.181464
+start count: 1723126456.3295135
+start count: 1723126479.447549
+start count: 1723126502.5046895
+start count: 1723126525.9610631
+start count: 1723126549.3301148
+start count: 1723126571.7679658
+start count: 1723126595.2800906
+start count: 1723126618.093226
+start count: 1723126640.8843555
+start count: 1723126663.4023278
+ Will you is = 4509165------
+ Start BEAST = 4509165------
+ End segmentation of BEAST = 4509165------
+ BEAST Energy Vector Length = 830------
+ End BEAST = 4509165------
+start count: 1723126691.3095684
+start count: 1723126714.017034
+start count: 1723126737.884403
+start count: 1723126761.857256
+start count: 1723126785.706615
+start count: 1723126810.3009787
+start count: 1723126834.6366386
+start count: 1723126858.2059433
+start count: 1723126877.8723814
+start count: 1723126901.6423688
+start count: 1723126926.1520903
+start count: 1723126950.8659904
+start count: 1723126975.4173734
+start count: 1723126999.8948886
+start count: 1723127023.630667
+start count: 1723127048.6995542
+start count: 1723127072.883828
+start count: 1723127096.8770885
+start count: 1723127121.2149947
+ Will you is = 4694926------
+ Start BEAST = 4694926------
+ End segmentation of BEAST = 4694926------
+ BEAST Energy Vector Length = 761------
+ End BEAST = 4694926------
+start count: 1723127148.2576373
+start count: 1723127172.1708174
+start count: 1723127196.2962322
+start count: 1723127220.7978296
+start count: 1723127245.117965
+start count: 1723127269.5575094
+start count: 1723127293.3020787
+start count: 1723127316.6696634
+start count: 1723127338.1958864
+start count: 1723127357.5232525
+start count: 1723127381.3560655
+start count: 1723127405.0178776
+start count: 1723127429.0487015
+start count: 1723127453.327927
+start count: 1723127477.1217768
+start count: 1723127501.589659
+start count: 1723127522.1709502
+start count: 1723127539.2717977
+start count: 1723127558.4544775
+ Will you is = 4885199------
+ Start BEAST = 4885199------
+ End segmentation of BEAST = 4885199------
+ BEAST Energy Vector Length = 776------
+ End BEAST = 4885199------
+start count: 1723127584.5299652
+start count: 1723127607.6635492
+start count: 1723127628.349497
+start count: 1723127650.9555693
+start count: 1723127670.4735427
+start count: 1723127694.5902362
+start count: 1723127718.0001063
+start count: 1723127741.9860854
+start count: 1723127766.2567987
+start count: 1723127787.8558583
+start count: 1723127811.2077534
+start count: 1723127834.3467958
+start count: 1723127855.74742
+start count: 1723127877.8231463
+start count: 1723127898.2147868
+start count: 1723127921.1682613
+start count: 1723127938.5210986
+start count: 1723127960.3911023
+start count: 1723127982.8301978
+start count: 1723128006.393191
+start count: 1723128028.6941404
+ Will you is = 5090208------
+ Start BEAST = 5090208------
+ End segmentation of BEAST = 5090208------
+ BEAST Energy Vector Length = 838------
+ End BEAST = 5090208------
+start count: 1723128055.1598074
+start count: 1723128078.1375594
+start count: 1723128101.20579
+start count: 1723128123.5537317
+start count: 1723128143.5582538
+start count: 1723128164.2905543
+start count: 1723128184.754084
+start count: 1723128204.737709
+start count: 1723128226.603325
+start count: 1723128249.4616227
+start count: 1723128272.6415055
+start count: 1723128295.2905457
+start count: 1723128318.8560545
+start count: 1723128338.9564676
+start count: 1723128359.828946
+start count: 1723128383.2253947
+start count: 1723128406.0126753
+start count: 1723128428.1394107
+start count: 1723128447.085798
+start count: 1723128469.7071774
+start count: 1723128492.9322395
+start count: 1723128516.1904137
+ Will you is = 5317382------
+ Start BEAST = 5317382------
+ End segmentation of BEAST = 5317382------
+ BEAST Energy Vector Length = 924------
+ End BEAST = 5317382------
+start count: 1723128542.3950896
+start count: 1723128565.7918644
+start count: 1723128588.9785695
+start count: 1723128612.5125082
+start count: 1723128635.948923
+start count: 1723128658.28629
+start count: 1723128681.7787514
+start count: 1723128703.9292724
+start count: 1723128723.1071687
+start count: 1723128742.6202588
+start count: 1723128765.5431988
+start count: 1723128787.9461944
+start count: 1723128808.3762856
+start count: 1723128828.5379407
+start count: 1723128848.1829336
+start count: 1723128861.8989441
+start count: 1723128878.7573023
+start count: 1723128900.7089539
+start count: 1723128921.4056127
+start count: 1723128944.0817995
+ Will you is = 5511320------
+ Start BEAST = 5511320------
+ End segmentation of BEAST = 5511320------
+ BEAST Energy Vector Length = 784------
+ End BEAST = 5511320------
+start count: 1723128969.795884
+start count: 1723128982.8091822
+start count: 1723129005.5664072
+start count: 1723129028.577627
+start count: 1723129051.6552346
+start count: 1723129070.7616901
+start count: 1723129090.5802393
+start count: 1723129112.485977
+start count: 1723129133.9652133
+start count: 1723129155.510994
+start count: 1723129178.6878896
+start count: 1723129201.0937378
+start count: 1723129225.625011
+start count: 1723129249.8454816
+start count: 1723129271.496477
+start count: 1723129294.754083
+start count: 1723129317.0952132
+start count: 1723129339.8416977
+ Will you is = 5693452------
+ Start BEAST = 5693452------
+ End segmentation of BEAST = 5693452------
+ BEAST Energy Vector Length = 742------
+ End BEAST = 5693452------
+start count: 1723129361.226674
+start count: 1723129382.879104
+start count: 1723129405.014938
+start count: 1723129427.4581153
+start count: 1723129448.9226785
+start count: 1723129470.73342
+start count: 1723129491.209145
+start count: 1723129511.6240516
+start count: 1723129532.9763176
+start count: 1723129553.9044251
+start count: 1723129576.6346228
+start count: 1723129599.3277984
+start count: 1723129622.604336
+start count: 1723129645.8375907
+start count: 1723129669.8320358
+start count: 1723129693.8794854
+start count: 1723129717.6487823
+start count: 1723129741.3073778
+start count: 1723129765.862117
+start count: 1723129789.684171
+start count: 1723129813.8725133
+ Will you is = 5906301------
+ Start BEAST = 5906301------
+ End segmentation of BEAST = 5906301------
+ BEAST Energy Vector Length = 866------
+ End BEAST = 5906301------
+start count: 1723129842.6156876
+start count: 1723129866.672531
+start count: 1723129891.1636755
+start count: 1723129915.9517832
+start count: 1723129940.1650395
+start count: 1723129964.4428446
+start count: 1723129987.8671823
+start count: 1723130012.5385928
+start count: 1723130037.054571
+start count: 1723130061.1577086
+start count: 1723130085.6092947
+start count: 1723130105.9163425
+start count: 1723130126.4424467
+start count: 1723130149.5238366
+start count: 1723130174.0208814
+start count: 1723130197.2411785
+start count: 1723130221.7118356
+start count: 1723130245.9976785
+start count: 1723130269.8261197
+ Will you is = 6093663------
+ Start BEAST = 6093663------
+ End segmentation of BEAST = 6093663------
+ BEAST Energy Vector Length = 758------
+ End BEAST = 6093663------
+start count: 1723130297.527876
+start count: 1723130321.195266
+start count: 1723130344.7704523
+start count: 1723130368.7528477
+start count: 1723130393.480235
+start count: 1723130418.3887045
+start count: 1723130442.2824135
+start count: 1723130467.0616744
+start count: 1723130490.9713194
+start count: 1723130514.0150635
+start count: 1723130538.3110569
+start count: 1723130562.6478963
+start count: 1723130587.55376
+start count: 1723130610.8974912
+start count: 1723130635.1282551
+start count: 1723130659.2443318
+start count: 1723130683.8258693
+start count: 1723130707.3386242
+start count: 1723130730.4610302
+ Will you is = 6281125------
+ Start BEAST = 6281125------
+ End segmentation of BEAST = 6281125------
+ BEAST Energy Vector Length = 776------
+ End BEAST = 6281125------
+start count: 1723130756.931607
+start count: 1723130781.2547631
+start count: 1723130805.546418
+start count: 1723130827.709569
+start count: 1723130850.5418143
+start count: 1723130874.914593
+start count: 1723130899.445937
+start count: 1723130923.291862
+start count: 1723130946.4187124
+start count: 1723130970.7468567
+start count: 1723130992.7725506
+start count: 1723131015.5687807
+start count: 1723131037.6257517
+start count: 1723131060.805733
+start count: 1723131084.0609422
+start count: 1723131108.6087787
+start count: 1723131133.1263921
+start count: 1723131157.4504766
+start count: 1723131181.162073
+ Will you is = 6472825------
+ Start BEAST = 6472825------
+ End segmentation of BEAST = 6472825------
+ BEAST Energy Vector Length = 777------
+ End BEAST = 6472825------
+start count: 1723131208.6563916
+start count: 1723131232.9178016
+start count: 1723131256.3324153
+start count: 1723131280.4201055
+start count: 1723131304.2091997
+start count: 1723131327.4590046
+start count: 1723131350.8749669
+start count: 1723131370.7994633
+start count: 1723131394.6244838
+start count: 1723131417.9674056
+start count: 1723131442.274198
+start count: 1723131466.49985
+start count: 1723131491.012977
+start count: 1723131515.599051
+start count: 1723131539.7827833
+start count: 1723131564.0977848
+start count: 1723131588.5688038
+start count: 1723131613.1024702
+start count: 1723131636.3937705
+ Will you is = 6666233------
+ Start BEAST = 6666233------
+ End segmentation of BEAST = 6666233------
+ BEAST Energy Vector Length = 783------
+ End BEAST = 6666233------
+start count: 1723131663.6989589
+start count: 1723131687.3199039
+start count: 1723131709.917265
+start count: 1723131731.5480688
+start count: 1723131754.0881875
+start count: 1723131777.0895636
+start count: 1723131801.0150194
+start count: 1723131825.43788
+start count: 1723131848.2041426
+start count: 1723131871.3011384
+start count: 1723131893.1977584
+start count: 1723131914.0932915
+start count: 1723131936.8065906
+start count: 1723131960.9238925
+start count: 1723131983.0853765
+start count: 1723132005.2794678
+start count: 1723132027.236614
+start count: 1723132050.5053747
+start count: 1723132073.3098445
+ Will you is = 6855217------
+ Start BEAST = 6855217------
+ End segmentation of BEAST = 6855217------
+ BEAST Energy Vector Length = 779------
+ End BEAST = 6855217------
+start count: 1723132098.2930377
+start count: 1723132116.5205557
+start count: 1723132137.631614
+start count: 1723132160.0076072
+start count: 1723132179.0141256
+start count: 1723132197.325743
+start count: 1723132216.283766
+start count: 1723132240.6484752
+start count: 1723132262.3845353
+start count: 1723132285.7945557
+start count: 1723132310.5676603
+start count: 1723132332.287157
+start count: 1723132354.8239114
+start count: 1723132378.3414872
+start count: 1723132402.4699473
+start count: 1723132426.4148378
+start count: 1723132450.3972375
+start count: 1723132473.981573
+start count: 1723132497.976372
+ Will you is = 7045161------
+ Start BEAST = 7045161------
+ End segmentation of BEAST = 7045161------
+ BEAST Energy Vector Length = 772------
+ End BEAST = 7045161------
+start count: 1723132522.896063
+start count: 1723132545.5808365
+start count: 1723132570.3286364
+start count: 1723132593.3426602
+start count: 1723132614.7132075
+start count: 1723132639.0256457
+start count: 1723132662.7729964
+start count: 1723132686.1341095
+start count: 1723132709.0146472
+start count: 1723132732.7020059
+start count: 1723132754.9405193
+start count: 1723132779.0842392
+start count: 1723132803.9678578
+start count: 1723132828.5987253
+start count: 1723132851.1359336
+start count: 1723132874.8677437
+start count: 1723132898.0592477
+start count: 1723132920.995641
+start count: 1723132944.1750374
+ Will you is = 7234643------
+ Start BEAST = 7234643------
+ End segmentation of BEAST = 7234643------
+ BEAST Energy Vector Length = 770------
+ End BEAST = 7234643------
+start count: 1723132971.1181715
+start count: 1723132994.104658
+start count: 1723133017.3639143
+start count: 1723133041.9080803
+start count: 1723133065.6435564
+start count: 1723133083.856191
+start count: 1723133102.8753984
+start count: 1723133126.2197387
+start count: 1723133148.0299056
+start count: 1723133171.630379
+start count: 1723133196.1596174
+start count: 1723133220.039247
+start count: 1723133245.3328104
+start count: 1723133267.6774926
+start count: 1723133292.1354055
+start count: 1723133313.914444
+start count: 1723133338.0200012
+start count: 1723133361.0864878
+start count: 1723133376.821432
+ Will you is = 7424457------
+ Start BEAST = 7424457------
+ End segmentation of BEAST = 7424457------
+ BEAST Energy Vector Length = 776------
+ End BEAST = 7424457------
+start count: 1723133404.5908997
+start count: 1723133427.8049707
+start count: 1723133449.833336
+start count: 1723133471.173559
+start count: 1723133493.5521965
+start count: 1723133517.8139231
+start count: 1723133540.7721906
+start count: 1723133563.7778387
+start count: 1723133588.1256742
+start count: 1723133611.8012128
+start count: 1723133635.6437025
+start count: 1723133659.0246303
+start count: 1723133682.3240614
+start count: 1723133705.3658285
+start count: 1723133729.1447413
+start count: 1723133751.6335146
+start count: 1723133773.389351
+start count: 1723133794.775473
+start count: 1723133816.5566347
+ Will you is = 7617801------
+ Start BEAST = 7617801------
+ End segmentation of BEAST = 7617801------
+ BEAST Energy Vector Length = 786------
+ End BEAST = 7617801------
+start count: 1723133843.372352
+start count: 1723133866.3283978
+start count: 1723133889.030212
+start count: 1723133913.2389839
+start count: 1723133936.8973677
+start count: 1723133959.56114
+start count: 1723133983.732326
+start count: 1723134006.9859772
+start count: 1723134030.5641506
+start count: 1723134053.5545113
+start count: 1723134075.0547009
+start count: 1723134098.2073567
+start count: 1723134122.3854103
+start count: 1723134146.8683252
+start count: 1723134170.0487049
+start count: 1723134194.6126258
+start count: 1723134218.8545737
+start count: 1723134239.629818
+start count: 1723134262.4402678
+ Will you is = 7801615------
+ Start BEAST = 7801615------
+ End segmentation of BEAST = 7801615------
+ BEAST Energy Vector Length = 750------
+ End BEAST = 7801615------
+start count: 1723134289.9193742
+start count: 1723134313.3072777
+start count: 1723134337.112169
+start count: 1723134360.3914108
+start count: 1723134385.0293555
+start count: 1723134406.3836527
+start count: 1723134430.2690725
+start count: 1723134452.8583364
+start count: 1723134472.9201136
+start count: 1723134490.9956193
+start count: 1723134514.308571
+start count: 1723134536.824331
+start count: 1723134559.1488404
+start count: 1723134582.275599
+start count: 1723134604.966706
+start count: 1723134626.8837256
+start count: 1723134649.6051078
+start count: 1723134672.0287564
+start count: 1723134695.3339534
+start count: 1723134718.6142178
+ Will you is = 8000753------
+ Start BEAST = 8000753------
+ End segmentation of BEAST = 8000753------
+ BEAST Energy Vector Length = 808------
+ End BEAST = 8000753------
+start count: 1723134744.1163876
+start count: 1723134764.8888707
+start count: 1723134786.0862803
+start count: 1723134810.8273416
+start count: 1723134834.4492805
+start count: 1723134857.9538527
+start count: 1723134880.726719
+start count: 1723134903.5594678
+start count: 1723134926.8709671
+start count: 1723134947.7201009
+start count: 1723134969.2988567
+start count: 1723134991.6686578
+start count: 1723135015.8998568
+start count: 1723135039.1690402
+start count: 1723135062.9261389
+start count: 1723135087.5331357
+start count: 1723135111.7181814
+start count: 1723135135.9308422
+start count: 1723135160.0657105
+ Will you is = 8197406------
+ Start BEAST = 8197406------
+ End segmentation of BEAST = 8197406------
+ BEAST Energy Vector Length = 795------
+ End BEAST = 8197406------
+start count: 1723135187.999122
+start count: 1723135212.9044347
+start count: 1723135238.0239828
+start count: 1723135261.071378
+start count: 1723135283.916216
+start count: 1723135307.9408894
+start count: 1723135329.6478345
+start count: 1723135351.7443337
+start count: 1723135375.0654867
+start count: 1723135399.5642273
+start count: 1723135424.0856862
+start count: 1723135447.0903726
+start count: 1723135470.2043371
+start count: 1723135494.2517154
+start count: 1723135518.1766696
+start count: 1723135542.013494
+start count: 1723135566.2422068
+start count: 1723135590.7690835
+start count: 1723135615.279357
+ Will you is = 8387073------
+ Start BEAST = 8387073------
+ End segmentation of BEAST = 8387073------
+ BEAST Energy Vector Length = 767------
+ End BEAST = 8387073------
+start count: 1723135643.2754564
+start count: 1723135667.6588879
+start count: 1723135690.988405
+start count: 1723135713.613857
+start count: 1723135736.812145
+start count: 1723135760.3891363
+start count: 1723135785.1667185
+start count: 1723135809.9491775
+start count: 1723135831.555136
+start count: 1723135848.452785
+start count: 1723135864.2767525
+start count: 1723135881.164176
+start count: 1723135899.4872255
+start count: 1723135920.2284544
+start count: 1723135943.3280423
+start count: 1723135966.7551732
+start count: 1723135990.2762434
+start count: 1723136013.2016637
+start count: 1723136035.2515497
+start count: 1723136058.124183
+ Will you is = 8580564------
+ Start BEAST = 8580564------
+ End segmentation of BEAST = 8580564------
+ BEAST Energy Vector Length = 784------
+ End BEAST = 8580564------
+start count: 1723136085.2458436
+start count: 1723136107.1818106
+start count: 1723136130.3317494
+start count: 1723136153.0382838
+start count: 1723136176.3272996
+start count: 1723136199.8055458
+start count: 1723136222.0290983
+start count: 1723136243.3726382
+start count: 1723136264.995729
+start count: 1723136288.4034967
+start count: 1723136310.8640413
+start count: 1723136333.9522936
+start count: 1723136357.1514478
+start count: 1723136379.690689
+start count: 1723136402.8582451
+start count: 1723136426.3485446
+start count: 1723136448.0684338
+start count: 1723136472.5147018
+start count: 1723136496.34498
+ Will you is = 8775741------
+ Start BEAST = 8775741------
+ End segmentation of BEAST = 8775741------
+ BEAST Energy Vector Length = 792------
+ End BEAST = 8775741------
+start count: 1723136523.8887703
+start count: 1723136546.2745318
+start count: 1723136565.794939
+start count: 1723136587.749383
+start count: 1723136608.870559
+start count: 1723136632.6309426
+start count: 1723136653.3594081
+start count: 1723136677.771015
+start count: 1723136699.9557223
+start count: 1723136723.7007866
+start count: 1723136745.4821985
+start count: 1723136768.3332245
+start count: 1723136791.9573574
+start count: 1723136816.0257187
+start count: 1723136838.2402577
+start count: 1723136860.2449715
+start count: 1723136882.43278
+start count: 1723136906.0417373
+start count: 1723136930.5153618
+ Will you is = 8966767------
+ Start BEAST = 8966767------
+ End segmentation of BEAST = 8966767------
+ BEAST Energy Vector Length = 782------
+ End BEAST = 8966767------
+start count: 1723136958.1586974
+start count: 1723136981.3355699
+start count: 1723137004.5543487
+start count: 1723137027.7763886
+start count: 1723137050.382159
+start count: 1723137073.043484
+start count: 1723137096.47781
+start count: 1723137119.831167
+start count: 1723137142.2907422
+start count: 1723137163.4735105
+start count: 1723137182.4151645
+start count: 1723137198.9362366
+start count: 1723137217.689647
+start count: 1723137235.6001112
+start count: 1723137257.316145
+start count: 1723137279.8638299
+start count: 1723137302.9817333
+start count: 1723137324.3580818
+start count: 1723137344.4303122
+ Will you is = 9152378------
+ Start BEAST = 9152378------
+ End segmentation of BEAST = 9152378------
+ BEAST Energy Vector Length = 759------
+ End BEAST = 9152378------
+start count: 1723137369.0109382
+start count: 1723137388.1461976
+start count: 1723137407.6603498
+start count: 1723137430.3684762
+start count: 1723137454.9152741
+start count: 1723137480.4038723
+start count: 1723137505.9278874
+start count: 1723137529.3688648
+start count: 1723137551.0905554
+start count: 1723137574.5340073
+start count: 1723137597.626802
+start count: 1723137621.945388
+start count: 1723137645.8082647
+start count: 1723137669.9794333
+start count: 1723137693.8557189
+start count: 1723137718.6870344
+start count: 1723137744.6048465
+start count: 1723137769.9177582
+ Will you is = 9332090------
+ Start BEAST = 9332090------
+ End segmentation of BEAST = 9332090------
+ BEAST Energy Vector Length = 736------
+ End BEAST = 9332090------
+start count: 1723137798.635473
+start count: 1723137824.0470607
+start count: 1723137848.2960231
+start count: 1723137869.1643238
+start count: 1723137890.7888167
+start count: 1723137911.070869
+start count: 1723137934.1906357
+start count: 1723137958.3548164
+start count: 1723137982.5306096
+start count: 1723138006.3474739
+start count: 1723138027.3339243
+start count: 1723138044.0532088
+start count: 1723138065.923201
+start count: 1723138087.9048803
+start count: 1723138109.6431627
+start count: 1723138132.1314857
+start count: 1723138155.0553672
+start count: 1723138175.4544587
+start count: 1723138197.5205789
+start count: 1723138216.2373543
+ Will you is = 9533472------
+ Start BEAST = 9533472------
+ End segmentation of BEAST = 9533472------
+ BEAST Energy Vector Length = 827------
+ End BEAST = 9533472------
+start count: 1723138242.0683794
+start count: 1723138263.177816
+start count: 1723138282.746713
+start count: 1723138303.0967038
+start count: 1723138325.7428837
+start count: 1723138346.9677887
+start count: 1723138370.7689939
+start count: 1723138393.3142388
+start count: 1723138415.6654935
+start count: 1723138430.242622
+start count: 1723138443.3627267
+start count: 1723138466.804845
+start count: 1723138490.3843596
+start count: 1723138509.2711387
+start count: 1723138532.8817632
+start count: 1723138555.159087
+start count: 1723138577.1554592
+start count: 1723138600.1914675
+start count: 1723138612.022937
+ Will you is = 9724305------
+ Start BEAST = 9724305------
+ End segmentation of BEAST = 9724305------
+ BEAST Energy Vector Length = 779------
+ End BEAST = 9724305------
+start count: 1723138630.1003213
+start count: 1723138651.225877
+start count: 1723138674.0965345
+start count: 1723138693.0364516
+start count: 1723138712.1309404
+start count: 1723138730.0789533
+start count: 1723138751.5671077
+start count: 1723138772.7887304
+start count: 1723138796.5586202
+start count: 1723138820.4747941
+start count: 1723138845.6761203
+start count: 1723138869.594832
+start count: 1723138893.8227153
+start count: 1723138917.9861147
+start count: 1723138940.633354
+start count: 1723138963.675355
+start count: 1723138984.6912189
+start count: 1723139006.6883557
+start count: 1723139028.6531978
+ Will you is = 9910850------
+ Start BEAST = 9910850------
+ End segmentation of BEAST = 9910850------
+ BEAST Energy Vector Length = 762------
+ End BEAST = 9910850------
+start count: 1723139052.8478963
+start count: 1723139076.3025377
+start count: 1723139099.592987
+start count: 1723139123.6852453
+start count: 1723139146.78768
+start count: 1723139170.0682542
+start count: 1723139193.329994
+start count: 1723139216.0313025
+start count: 1723139237.9607198
+ medium command is = 10000000------
+start count: 1723139260.742532
+start count: 1723139285.1471229
+start count: 1723139306.840083
+start count: 1723139328.6965623
+start count: 1723139350.9433668
+start count: 1723139368.441293
+start count: 1723139391.549984
+start count: 1723139415.0168014
+start count: 1723139438.0892205
+ Will you is = 10094239------
+ Start BEAST = 10094239------
+start count: 1723139462.785868
+start count: 1723139485.2884285
+start count: 1723139510.0602932
+start count: 1723139531.9021313
+start count: 1723139556.4003901
+start count: 1723139578.8784468
+start count: 1723139601.1073399
+start count: 1723139620.903292
+start count: 1723139643.9978502
+start count: 1723139667.122794
+start count: 1723139690.2477973
+start count: 1723139709.7361019
+start count: 1723139730.6311347
+start count: 1723139752.6984103
+start count: 1723139771.589605
+start count: 1723139793.8961437
+start count: 1723139815.4143133
+start count: 1723139837.8346746
+start count: 1723139860.35856
+ Will you is = 10281297------
+ Start BEAST = 10281297------
+ End segmentation of BEAST = 10281297------
+ BEAST Energy Vector Length = 1500------
+ End BEAST = 10281297------
+start count: 1723139889.4196832
+start count: 1723139912.6990817
+start count: 1723139935.2159486
+start count: 1723139955.0856242
+start count: 1723139977.3487408
+start count: 1723139996.891872
+start count: 1723140016.7763026
+start count: 1723140037.4272387
+start count: 1723140056.7268844
+start count: 1723140079.2217636
+start count: 1723140100.8988466
+start count: 1723140123.0459595
+start count: 1723140144.7245378
+start count: 1723140166.1057866
+start count: 1723140184.7588623
+start count: 1723140207.653456
+ Will you is = 10448304------
+ Start BEAST = 10448304------
+ End segmentation of BEAST = 10448304------
+ BEAST Energy Vector Length = 681------
+ End BEAST = 10448304------
+start count: 1723140232.7127936
+start count: 1723140251.9690845
+start count: 1723140274.369917
+start count: 1723140296.343356
+start count: 1723140316.3303237
+start count: 1723140337.3809214
+start count: 1723140359.486261
+start count: 1723140380.8317182
+start count: 1723140401.9241104
+start count: 1723140419.6384428
+start count: 1723140432.7204232
+start count: 1723140456.5423622
+start count: 1723140476.9031868
+start count: 1723140494.204658
+ Will you is = 10583841------
+ Start BEAST = 10583841------
+ End segmentation of BEAST = 10583841------
+ BEAST Energy Vector Length = 553------
+ End BEAST = 10583841------
+start count: 1723140508.459925
+start count: 1723140520.921661
+start count: 1723140536.3591478
+start count: 1723140555.5900354
+start count: 1723140578.397657
+start count: 1723140600.9516594
+start count: 1723140622.9505475
+start count: 1723140645.3034654
+start count: 1723140668.7076764
+start count: 1723140692.0682492
+start count: 1723140714.1020484
+start count: 1723140731.4405897
+start count: 1723140753.7638252
+ Will you is = 10718428------
+ Start BEAST = 10718428------
+ End segmentation of BEAST = 10718428------
+ BEAST Energy Vector Length = 550------
+ End BEAST = 10718428------
+start count: 1723140776.6531825
+start count: 1723140799.8197494
+start count: 1723140820.7751536
+start count: 1723140833.9500804
+start count: 1723140851.5227776
+start count: 1723140874.8448083
+start count: 1723140897.2345588
+start count: 1723140915.9469779
+start count: 1723140938.6701396
+start count: 1723140961.8054597
+start count: 1723140984.4560578
+start count: 1723141007.0816162
+start count: 1723141029.653356
+start count: 1723141051.9893777
+ Will you is = 10854164------
+ Start BEAST = 10854164------
+ End segmentation of BEAST = 10854164------
+ BEAST Energy Vector Length = 567------
+ End BEAST = 10854164------
+start count: 1723141075.6482751
+start count: 1723141098.313814
+start count: 1723141121.435321
+start count: 1723141142.8568904
+start count: 1723141165.0932493
+start count: 1723141186.9723568
+start count: 1723141202.8408487
+start count: 1723141220.5902717
+start count: 1723141242.9590597
+start count: 1723141264.1831074
+start count: 1723141287.3758347
+start count: 1723141310.595572
+start count: 1723141328.3135617
+start count: 1723141346.964442
+ Will you is = 10990081------
+ Start BEAST = 10990081------
+ End segmentation of BEAST = 10990081------
+ BEAST Energy Vector Length = 639------
+ End BEAST = 10990081------
+start count: 1723141370.6909826
+start count: 1723141393.5532734
+start count: 1723141416.448123
+start count: 1723141438.3820462
+start count: 1723141457.8075242
+start count: 1723141480.4967198
+start count: 1723141499.01573
+start count: 1723141515.4804037
+start count: 1723141531.7427034
+start count: 1723141547.2184668
+start count: 1723141566.2787054
+start count: 1723141588.2283623
+start count: 1723141609.890948
+ Will you is = 11126782------
+ Start BEAST = 11126782------
+ End segmentation of BEAST = 11126782------
+ BEAST Energy Vector Length = 632------
+ End BEAST = 11126782------
+start count: 1723141632.281526
+start count: 1723141651.0046806
+start count: 1723141667.242956
+start count: 1723141686.019491
+start count: 1723141705.3125305
+start count: 1723141724.999743
+start count: 1723141744.1525447
+start count: 1723141766.224843
+start count: 1723141782.3227515
+start count: 1723141804.380995
+start count: 1723141824.601142
+start count: 1723141846.9999738
+start count: 1723141868.5513098
+start count: 1723141891.6646907
+ Will you is = 11262071------
+ Start BEAST = 11262071------
+ End segmentation of BEAST = 11262071------
+ BEAST Energy Vector Length = 581------
+ End BEAST = 11262071------
+start count: 1723141915.6696627
+start count: 1723141936.4846334
+start count: 1723141959.129249
+start count: 1723141980.4171607
+start count: 1723142001.537529
+start count: 1723142022.7302072
+start count: 1723142044.5247903
+start count: 1723142067.5380347
+start count: 1723142090.3803692
+start count: 1723142112.9827008
+start count: 1723142129.6399748
+start count: 1723142146.3461616
+start count: 1723142168.1671925
+ Will you is = 11397077------
+ Start BEAST = 11397077------
+ End segmentation of BEAST = 11397077------
+ BEAST Energy Vector Length = 586------
+ End BEAST = 11397077------
+start count: 1723142192.5339437
+start count: 1723142215.3083904
+start count: 1723142236.0736346
+start count: 1723142258.574966
+start count: 1723142280.4439683
+start count: 1723142302.5113966
+start count: 1723142319.1711392
+start count: 1723142340.231702
+start count: 1723142363.6853898
+start count: 1723142387.2255003
+start count: 1723142409.1132908
+start count: 1723142431.183734
+start count: 1723142451.9538338
+start count: 1723142473.6763327
+ Will you is = 11534177------
+ Start BEAST = 11534177------
+ End segmentation of BEAST = 11534177------
+ BEAST Energy Vector Length = 556------
+ End BEAST = 11534177------
+start count: 1723142492.4631765
+start count: 1723142512.074943
+start count: 1723142534.524177
+start count: 1723142554.08984
+start count: 1723142572.7524345
+start count: 1723142590.7858503
+start count: 1723142607.5790827
+start count: 1723142623.902553
+start count: 1723142646.708925
+start count: 1723142669.6636806
+start count: 1723142681.9095025
+start count: 1723142704.7165475
+start count: 1723142728.0427139
+start count: 1723142750.7164521
+ Will you is = 11670071------
+ Start BEAST = 11670071------
+ End segmentation of BEAST = 11670071------
+ BEAST Energy Vector Length = 554------
+ End BEAST = 11670071------
+start count: 1723142774.9376438
+start count: 1723142787.5756261
+start count: 1723142800.1343634
+start count: 1723142815.623981
+start count: 1723142836.0427122
+start count: 1723142854.1261542
+start count: 1723142875.8254802
+start count: 1723142893.9329877
+start count: 1723142917.2626297
+start count: 1723142940.6905577
+start count: 1723142963.4689167
+start count: 1723142983.8163304
+start count: 1723143003.6165893
+ Will you is = 11806579------
+ Start BEAST = 11806579------
+ End segmentation of BEAST = 11806579------
+ BEAST Energy Vector Length = 556------
+ End BEAST = 11806579------
+start count: 1723143019.4570448
+start count: 1723143042.1263785
+start count: 1723143062.171819
+start count: 1723143084.7884347
+start count: 1723143107.170656
+start count: 1723143129.1445463
+start count: 1723143151.6843228
+start count: 1723143170.4774535
+start count: 1723143193.0732923
+start count: 1723143216.253988
+start count: 1723143238.0370913
+start count: 1723143257.7815592
+start count: 1723143278.0874364
+start count: 1723143301.439648
+ Will you is = 11943328------
+ Start BEAST = 11943328------
+ End segmentation of BEAST = 11943328------
+ BEAST Energy Vector Length = 561------
+ End BEAST = 11943328------
+start count: 1723143324.3985775
+start count: 1723143347.2252293
+start count: 1723143367.5580633
+start count: 1723143382.819788
+start count: 1723143403.5673223
+start count: 1723143426.8262537
+start count: 1723143450.621319
+start count: 1723143474.2092874
+start count: 1723143496.0131493
+start count: 1723143518.7098303
+start count: 1723143541.2120616
+start count: 1723143564.6014533
+start count: 1723143588.1423786
+start count: 1723143612.1501691
+ Will you is = 12082414------
+ Start BEAST = 12082414------
+ End segmentation of BEAST = 12082414------
+ BEAST Energy Vector Length = 586------
+ End BEAST = 12082414------
+start count: 1723143637.566252
+start count: 1723143661.2497675
+start count: 1723143684.9276469
+start count: 1723143707.8845127
+start count: 1723143731.3409526
+start count: 1723143754.5383284
+start count: 1723143778.1897633
+start count: 1723143799.9402726
+start count: 1723143822.0264397
+start count: 1723143845.8407564
+start count: 1723143863.907366
+start count: 1723143885.0946875
+start count: 1723143908.4669
+ Will you is = 12217503------
+ Start BEAST = 12217503------
+ End segmentation of BEAST = 12217503------
+ BEAST Energy Vector Length = 556------
+ End BEAST = 12217503------
+start count: 1723143933.10368
+start count: 1723143953.6006575
+start count: 1723143977.244352
+start count: 1723144000.9994586
+start count: 1723144023.6150498
+start count: 1723144044.4999938
+start count: 1723144066.6821742
+start count: 1723144085.1216648
+start count: 1723144107.322569
+start count: 1723144131.3099558
+start count: 1723144155.4146078
+start count: 1723144177.333475
+start count: 1723144201.6124606
+start count: 1723144225.5847485
+ Will you is = 12355361------
+ Start BEAST = 12355361------
+ End segmentation of BEAST = 12355361------
+ BEAST Energy Vector Length = 583------
+ End BEAST = 12355361------
+start count: 1723144248.2752888
+start count: 1723144269.7404315
+start count: 1723144292.4906223
+start count: 1723144315.976146
+start count: 1723144339.9975548
+start count: 1723144363.6946476
+start count: 1723144386.1852124
+start count: 1723144408.216464
+start count: 1723144432.56752
+start count: 1723144456.2913277
+start count: 1723144478.3645282
+start count: 1723144497.74367
+start count: 1723144519.8658054
+start count: 1723144544.1143246
+ Will you is = 12490775------
+ Start BEAST = 12490775------
+ End segmentation of BEAST = 12490775------
+ BEAST Energy Vector Length = 556------
+ End BEAST = 12490775------
+start count: 1723144569.6011283
+start count: 1723144593.07745
+start count: 1723144614.0262601
+start count: 1723144635.4678917
+start count: 1723144657.2278283
+start count: 1723144679.811529
+start count: 1723144704.1617339
+start count: 1723144728.4192038
+start count: 1723144752.071299
+start count: 1723144776.2584605
+start count: 1723144800.595016
+start count: 1723144825.1969686
+start count: 1723144849.4569957
+ Will you is = 12625071------
+ Start BEAST = 12625071------
+ End segmentation of BEAST = 12625071------
+ BEAST Energy Vector Length = 555------
+ End BEAST = 12625071------
+start count: 1723144874.759659
+start count: 1723144899.039076
+start count: 1723144922.5507197
+start count: 1723144946.6604528
+start count: 1723144968.0259132
+start count: 1723144991.288496
+start count: 1723145015.5194063
+start count: 1723145039.8795123
+start count: 1723145064.2450864
+start count: 1723145086.8927686
+start count: 1723145110.1819003
+start count: 1723145133.9289787
+start count: 1723145157.8933465
+start count: 1723145181.238796
+ Will you is = 12760923------
+ Start BEAST = 12760923------
+ End segmentation of BEAST = 12760923------
+ BEAST Energy Vector Length = 563------
+ End BEAST = 12760923------
+start count: 1723145205.934898
+start count: 1723145229.5862858
+start count: 1723145252.0371196
+start count: 1723145275.6630137
+start count: 1723145298.661414
+start count: 1723145320.1637526
+start count: 1723145342.2401628
+start count: 1723145364.4081132
+start count: 1723145386.401707
+start count: 1723145410.3155868
+start count: 1723145429.1712945
+start count: 1723145442.8930175
+start count: 1723145461.0552878
+ Will you is = 12896954------
+ Start BEAST = 12896954------
+ End segmentation of BEAST = 12896954------
+ BEAST Energy Vector Length = 559------
+ End BEAST = 12896954------
+start count: 1723145486.4675484
+start count: 1723145508.865523
+start count: 1723145531.8440318
+start count: 1723145553.919037
+start count: 1723145572.750521
+start count: 1723145596.395516
+start count: 1723145620.0092132
+start count: 1723145642.9642386
+start count: 1723145667.1284413
+start count: 1723145691.1018631
+start count: 1723145714.7908506
+start count: 1723145738.4443069
+start count: 1723145761.4919622
+start count: 1723145783.442689
+ Will you is = 13032129------
+ Start BEAST = 13032129------
+ End segmentation of BEAST = 13032129------
+ BEAST Energy Vector Length = 557------
+ End BEAST = 13032129------
+start count: 1723145806.6260495
+start count: 1723145828.5309834
+start count: 1723145849.8653808
+start count: 1723145871.1245015
+start count: 1723145893.2901192
+start count: 1723145914.157815
+start count: 1723145936.5232143
+start count: 1723145960.3043668
+start count: 1723145983.6883614
+start count: 1723146008.1468081
+start count: 1723146032.3118248
+start count: 1723146056.558053
+start count: 1723146080.3297875
+start count: 1723146104.8111167
+ Will you is = 13173923------
+ Start BEAST = 13173923------
+ End segmentation of BEAST = 13173923------
+ BEAST Energy Vector Length = 576------
+ End BEAST = 13173923------
+start count: 1723146130.7169173
+start count: 1723146151.713203
+start count: 1723146170.5047476
+start count: 1723146193.9807923
+start count: 1723146217.7277963
+start count: 1723146239.3551624
+start count: 1723146263.3334558
+start count: 1723146282.6644654
+start count: 1723146306.00495
+start count: 1723146327.1920006
+start count: 1723146342.0579119
+start count: 1723146362.855484
+start count: 1723146385.6511645
+start count: 1723146409.0264463
+ Will you is = 13311529------
+ Start BEAST = 13311529------
+ End segmentation of BEAST = 13311529------
+ BEAST Energy Vector Length = 576------
+ End BEAST = 13311529------
+start count: 1723146434.0804877
+start count: 1723146457.573516
+start count: 1723146480.7733023
+start count: 1723146504.281499
+start count: 1723146527.6931596
+start count: 1723146551.7651663
+start count: 1723146575.9461522
+start count: 1723146600.1492043
+start count: 1723146622.555209
+start count: 1723146646.39193
+start count: 1723146670.7953737
+start count: 1723146695.250889
+start count: 1723146719.6963058
+ Will you is = 13446119------
+ Start BEAST = 13446119------
+ End segmentation of BEAST = 13446119------
+ BEAST Energy Vector Length = 552------
+ End BEAST = 13446119------
+start count: 1723146744.8197408
+start count: 1723146768.181123
+start count: 1723146791.9592328
+start count: 1723146814.1066813
+start count: 1723146835.4108508
+start count: 1723146857.8080742
+start count: 1723146881.4666188
+start count: 1723146905.2115169
+start count: 1723146927.9363513
+start count: 1723146952.105801
+start count: 1723146976.1805892
+start count: 1723147000.44626
+start count: 1723147024.7238026
+start count: 1723147049.1545339
+ Will you is = 13582457------
+ Start BEAST = 13582457------
+ End segmentation of BEAST = 13582457------
+ BEAST Energy Vector Length = 649------
+ End BEAST = 13582457------
+start count: 1723147074.932932
+start count: 1723147099.2635782
+start count: 1723147123.3137956
+start count: 1723147147.7423363
+start count: 1723147171.5546768
+start count: 1723147194.8166616
+start count: 1723147217.3753548
+start count: 1723147241.09113
+start count: 1723147263.6758735
+start count: 1723147287.6656759
+start count: 1723147311.9688456
+start count: 1723147336.402516
+start count: 1723147360.9514065
+start count: 1723147385.3866506
+ Will you is = 13728930------
+ Start BEAST = 13728930------
+ End segmentation of BEAST = 13728930------
+ BEAST Energy Vector Length = 609------
+ End BEAST = 13728930------
+start count: 1723147411.780556
+start count: 1723147436.2688904
+start count: 1723147460.6518824
+start count: 1723147484.9023678
+start count: 1723147509.2924497
+start count: 1723147533.4332478
+start count: 1723147557.9072387
+start count: 1723147582.1485069
+start count: 1723147606.69332
+start count: 1723147631.1506336
+start count: 1723147655.0412533
+start count: 1723147679.236256
+start count: 1723147703.342097
+start count: 1723147727.4695427
+ Will you is = 13864510------
+ Start BEAST = 13864510------
+ End segmentation of BEAST = 13864510------
+ BEAST Energy Vector Length = 561------
+ End BEAST = 13864510------
+start count: 1723147752.6011748
+start count: 1723147776.8976603
+start count: 1723147801.1756988
+start count: 1723147825.5861576
+start count: 1723147849.2078197
+start count: 1723147873.3011136
+start count: 1723147897.5591743
+start count: 1723147921.7471888
+start count: 1723147945.881189
+start count: 1723147970.2091928
+start count: 1723147994.1530132
+start count: 1723148017.9649262
+start count: 1723148041.726364
+start count: 1723148065.4651
+ Will you is = 14000648------
+ Start BEAST = 14000648------
+ End segmentation of BEAST = 14000648------
+ BEAST Energy Vector Length = 615------
+ End BEAST = 14000648------
+start count: 1723148090.9339485
+start count: 1723148114.4169843
+start count: 1723148137.8350487
+start count: 1723148161.3756201
+start count: 1723148184.7863278
+start count: 1723148208.4753995
+start count: 1723148230.3906186
+start count: 1723148254.4983296
+start count: 1723148277.2452705
+start count: 1723148300.614625
+start count: 1723148324.4432163
+start count: 1723148347.0737936
+start count: 1723148368.087577
+start count: 1723148385.9420028
+ Will you is = 14140333------
+ Start BEAST = 14140333------
+ End segmentation of BEAST = 14140333------
+ BEAST Energy Vector Length = 573------
+ End BEAST = 14140333------
+start count: 1723148408.2016902
+start count: 1723148431.4794877
+start count: 1723148453.9709713
+start count: 1723148474.395093
+start count: 1723148497.1841424
+start count: 1723148520.5202477
+start count: 1723148542.433852
+start count: 1723148563.0061016
+start count: 1723148584.0774288
+start count: 1723148604.8187773
+start count: 1723148625.4026244
+start count: 1723148645.5279093
+start count: 1723148667.211659
+start count: 1723148690.3444364
+ Will you is = 14288326------
+ Start BEAST = 14288326------
+ End segmentation of BEAST = 14288326------
+ BEAST Energy Vector Length = 603------
+ End BEAST = 14288326------
+start count: 1723148714.4378853
+start count: 1723148737.7351103
+start count: 1723148760.2791831
+start count: 1723148783.2744079
+start count: 1723148806.1979458
+start count: 1723148828.9676926
+start count: 1723148851.9911427
+start count: 1723148875.5572639
+start count: 1723148898.2600274
+start count: 1723148921.2640376
+start count: 1723148944.731123
+start count: 1723148968.0357256
+start count: 1723148991.2091596
+start count: 1723149014.4859033
+start count: 1723149037.1970243
+ Will you is = 14439239------
+ Start BEAST = 14439239------
+ End segmentation of BEAST = 14439239------
+ BEAST Energy Vector Length = 612------
+ End BEAST = 14439239------
+start count: 1723149061.4463394
+start count: 1723149083.1397998
+start count: 1723149105.053052
+start count: 1723149128.3779976
+start count: 1723149151.7050047
+start count: 1723149172.557106
+start count: 1723149194.0406506
+start count: 1723149215.85873
+start count: 1723149239.144232
+start count: 1723149259.3251905
+start count: 1723149278.0858583
+start count: 1723149299.4414253
+start count: 1723149317.600091
+start count: 1723149339.602451
+start count: 1723149361.9101102
+start count: 1723149384.8820567
+ Will you is = 14591917------
+ Start BEAST = 14591917------
+ End segmentation of BEAST = 14591917------
+ BEAST Energy Vector Length = 623------
+ End BEAST = 14591917------
+start count: 1723149409.4075491
+start count: 1723149430.9001572
+start count: 1723149451.3557467
+start count: 1723149474.0209987
+start count: 1723149496.991481
+start count: 1723149519.0921829
+start count: 1723149541.811196
+start count: 1723149564.0765336
+start count: 1723149587.0689497
+start count: 1723149609.9805765
+start count: 1723149631.068297
+start count: 1723149650.988936
+start count: 1723149670.9671454
+start count: 1723149691.5305188
+start count: 1723149715.2728848
+ Will you is = 14742383------
+ Start BEAST = 14742383------
+ End segmentation of BEAST = 14742383------
+ BEAST Energy Vector Length = 620------
+ End BEAST = 14742383------
+start count: 1723149739.344971
+start count: 1723149762.1726413
+start count: 1723149786.743214
+start count: 1723149810.9174497
+start count: 1723149834.8147535
+start count: 1723149858.9641147
+start count: 1723149882.8012698
+start count: 1723149906.7281632
+start count: 1723149930.1101227
+start count: 1723149953.5532227
+start count: 1723149976.9000874
+start count: 1723150000.3374717
+start count: 1723150023.9248192
+start count: 1723150046.5363274
+ Will you is = 14886592------
+ Start BEAST = 14886592------
+ End segmentation of BEAST = 14886592------
+ BEAST Energy Vector Length = 593------
+ End BEAST = 14886592------
+start count: 1723150069.7639008
+start count: 1723150092.7632196
+start count: 1723150115.6388984
+start count: 1723150138.6759846
+start count: 1723150161.1578507
+start count: 1723150184.6489336
+start count: 1723150208.1628034
+start count: 1723150231.6294234
+start count: 1723150255.2833366
+start count: 1723150278.761487
+start count: 1723150302.243149
+start count: 1723150325.3544586
+start count: 1723150348.253551
+start count: 1723150372.1700356
+start count: 1723150396.572517
+ Will you is = 15036666------
+ Start BEAST = 15036666------
+ End segmentation of BEAST = 15036666------
+ BEAST Energy Vector Length = 619------
+ End BEAST = 15036666------
+start count: 1723150422.2038443
+start count: 1723150446.281707
+start count: 1723150470.3664882
+start count: 1723150494.3290656
+start count: 1723150518.4082391
+start count: 1723150542.371135
+start count: 1723150565.5679467
+start count: 1723150588.6633043
+start count: 1723150612.4572997
+start count: 1723150636.7595453
+start count: 1723150660.9926424
+start count: 1723150681.876257
+start count: 1723150704.74794
+start count: 1723150727.7720194
+ Will you is = 15171689------
+ Start BEAST = 15171689------
+ End segmentation of BEAST = 15171689------
+ BEAST Energy Vector Length = 571------
+ End BEAST = 15171689------
+start count: 1723150752.6120088
+start count: 1723150776.7662814
+start count: 1723150801.0790467
+start count: 1723150825.3767214
+start count: 1723150849.5482492
+start count: 1723150870.737015
+start count: 1723150891.2242157
+start count: 1723150911.6095192
+start count: 1723150930.7022963
+start count: 1723150954.6663935
+start count: 1723150978.4492476
+start count: 1723151001.5509737
+start count: 1723151024.3321788
+start count: 1723151047.669689
+ Will you is = 15313487------
+ Start BEAST = 15313487------
+ End segmentation of BEAST = 15313487------
+ BEAST Energy Vector Length = 581------
+ End BEAST = 15313487------
+start count: 1723151072.2706623
+start count: 1723151093.5708685
+start count: 1723151117.4849684
+start count: 1723151141.6739001
+start count: 1723151161.4092543
+start count: 1723151180.4582627
+start count: 1723151204.1537147
+start count: 1723151227.6617079
+start count: 1723151251.6309247
+start count: 1723151272.961853
+start count: 1723151293.9276838
+start count: 1723151313.2681231
+start count: 1723151336.8340278
+start count: 1723151359.689221
+ Will you is = 15450388------
+ Start BEAST = 15450388------
+ End segmentation of BEAST = 15450388------
+ BEAST Energy Vector Length = 599------
+ End BEAST = 15450388------
+start count: 1723151384.8481338
+start count: 1723151408.6146104
+start count: 1723151432.2461653
+start count: 1723151455.149458
+start count: 1723151478.1264436
+start count: 1723151502.041108
+start count: 1723151525.9134405
+start count: 1723151549.708077
+start count: 1723151573.8531945
+start count: 1723151597.7776818
+start count: 1723151621.8973894
+start count: 1723151645.935978
+start count: 1723151669.9322348
+ Will you is = 15585510------
+ Start BEAST = 15585510------
+ End segmentation of BEAST = 15585510------
+ BEAST Energy Vector Length = 565------
+ End BEAST = 15585510------
+start count: 1723151694.796392
+start count: 1723151719.0251646
+start count: 1723151743.1486776
+start count: 1723151767.0056102
+start count: 1723151790.5431514
+start count: 1723151814.0823724
+start count: 1723151838.0726876
+start count: 1723151860.4739294
+start count: 1723151881.1419816
+start count: 1723151900.2918367
+start count: 1723151918.047212
+start count: 1723151941.8060777
+start count: 1723151965.5123146
+start count: 1723151988.377926
+ Will you is = 15728107------
+ Start BEAST = 15728107------
+ End segmentation of BEAST = 15728107------
+ BEAST Energy Vector Length = 579------
+ End BEAST = 15728107------
+start count: 1723152013.2471576
+start count: 1723152033.8902311
+start count: 1723152057.1291847
+start count: 1723152077.7711601
+start count: 1723152100.9840372
+start count: 1723152124.4039655
+start count: 1723152146.8069482
+start count: 1723152169.6633377
+start count: 1723152193.8957305
+start count: 1723152214.1045523
+start count: 1723152237.8001838
+start count: 1723152261.8533678
+start count: 1723152285.2903912
+start count: 1723152309.230107
+ Will you is = 15863233------
+ Start BEAST = 15863233------
+ End segmentation of BEAST = 15863233------
+ BEAST Energy Vector Length = 561------
+ End BEAST = 15863233------
+start count: 1723152334.602583
+start count: 1723152358.6883073
+start count: 1723152381.503841
+start count: 1723152402.9544258
+start count: 1723152424.253461
+start count: 1723152447.416882
+start count: 1723152471.443021
+start count: 1723152495.6817784
+start count: 1723152519.760974
+start count: 1723152543.8931906
+start count: 1723152567.7654886
+start count: 1723152590.9055133
+start count: 1723152615.0528429
+ Will you is = 15998499------
+ Start BEAST = 15998499------
+ End segmentation of BEAST = 15998499------
+ BEAST Energy Vector Length = 550------
+ End BEAST = 15998499------
+start count: 1723152638.6749032
+start count: 1723152656.7833185
+start count: 1723152680.7028403
+start count: 1723152703.5015688
+start count: 1723152727.8778143
+start count: 1723152752.169653
+start count: 1723152775.7191284
+start count: 1723152799.5650272
+start count: 1723152823.4779742
+start count: 1723152847.6587214
+start count: 1723152871.3452103
+start count: 1723152895.1283648
+start count: 1723152919.1510441
+start count: 1723152943.0874207
+ Will you is = 16135313------
+ Start BEAST = 16135313------
+ End segmentation of BEAST = 16135313------
+ BEAST Energy Vector Length = 573------
+ End BEAST = 16135313------
+start count: 1723152966.160375
+start count: 1723152986.9486647
+start count: 1723153010.3351328
+start count: 1723153033.152978
+start count: 1723153048.0816152
+start count: 1723153069.7226832
+start count: 1723153090.3143704
+start count: 1723153110.955796
+start count: 1723153134.865286
+start count: 1723153157.7939193
+start count: 1723153181.2027967
+start count: 1723153204.1948574
+start count: 1723153228.3972256
+start count: 1723153251.0563848
+ Will you is = 16270469------
+ Start BEAST = 16270469------
+ End segmentation of BEAST = 16270469------
+ BEAST Energy Vector Length = 564------
+ End BEAST = 16270469------
+start count: 1723153272.7528195
+start count: 1723153296.1547236
+start count: 1723153320.190718
+start count: 1723153341.443834
+start count: 1723153361.1413949
+start count: 1723153384.1283824
+start count: 1723153408.5737352
+start count: 1723153433.0045815
+start count: 1723153457.3730507
+start count: 1723153481.3263242
+start count: 1723153502.796297
+start count: 1723153524.3769336
+start count: 1723153548.4314368
+ Will you is = 16406171------
+ Start BEAST = 16406171------
+ End segmentation of BEAST = 16406171------
+ BEAST Energy Vector Length = 551------
+ End BEAST = 16406171------
+start count: 1723153573.3647325
+start count: 1723153597.710005
+start count: 1723153621.6220882
+start count: 1723153645.9058247
+start count: 1723153669.4369388
+start count: 1723153692.448908
+start count: 1723153716.2677178
+start count: 1723153739.9828045
+start count: 1723153763.7744126
+start count: 1723153785.9151068
+start count: 1723153809.8074446
+start count: 1723153834.145147
+start count: 1723153857.3444448
+start count: 1723153879.3733854
+ Will you is = 16542488------
+ Start BEAST = 16542488------
+ End segmentation of BEAST = 16542488------
+ BEAST Energy Vector Length = 558------
+ End BEAST = 16542488------
+start count: 1723153902.2141542
+start count: 1723153925.0200589
+start count: 1723153949.1199522
+start count: 1723153973.2968326
+start count: 1723153996.6214457
+start count: 1723154020.5427675
+start count: 1723154041.82319
+start count: 1723154062.031096
+start count: 1723154082.5609367
+start count: 1723154106.911077
+start count: 1723154130.874662
+start count: 1723154155.103567
+start count: 1723154178.994193
+ Will you is = 16678356------
+ Start BEAST = 16678356------
+ End segmentation of BEAST = 16678356------
+ BEAST Energy Vector Length = 568------
+ End BEAST = 16678356------
+start count: 1723154204.344185
+start count: 1723154228.4201689
+start count: 1723154243.4292195
+start count: 1723154265.963302
+start count: 1723154289.4505017
+start count: 1723154312.7615452
+start count: 1723154336.9299314
+start count: 1723154359.9012895
+start count: 1723154381.3468316
+start count: 1723154401.0602596
+start count: 1723154422.556812
+start count: 1723154446.4993663
+start count: 1723154468.8983767
+start count: 1723154492.8343813
+ Will you is = 16814380------
+ Start BEAST = 16814380------
+ End segmentation of BEAST = 16814380------
+ BEAST Energy Vector Length = 563------
+ End BEAST = 16814380------
+start count: 1723154516.641693
+start count: 1723154539.7069695
+start count: 1723154561.8800473
+start count: 1723154585.6200004
+start count: 1723154608.3806639
+start count: 1723154628.1848264
+start count: 1723154650.9089282
+start count: 1723154674.033713
+start count: 1723154697.093375
+start count: 1723154717.114394
+start count: 1723154736.9300053
+start count: 1723154759.9892137
+start count: 1723154783.114416
+start count: 1723154805.3031294
+ Will you is = 16950302------
+ Start BEAST = 16950302------
+ End segmentation of BEAST = 16950302------
+ BEAST Energy Vector Length = 614------
+ End BEAST = 16950302------
+start count: 1723154829.9761434
+start count: 1723154851.2894707
+start count: 1723154873.2006962
+start count: 1723154894.4151473
+start count: 1723154915.4109929
+start count: 1723154937.6473207
+start count: 1723154960.9817653
+start count: 1723154980.5977514
+start count: 1723155002.7253697
+start count: 1723155025.9426181
+start count: 1723155049.526591
+start count: 1723155072.484591
+start count: 1723155095.4426386
+ Will you is = 17085012------
+ Start BEAST = 17085012------
+ End segmentation of BEAST = 17085012------
+ BEAST Energy Vector Length = 557------
+ End BEAST = 17085012------
+start count: 1723155118.5696228
+start count: 1723155141.5409207
+start count: 1723155160.9406884
+start count: 1723155180.8684459
+start count: 1723155203.8885741
+start count: 1723155227.205324
+start count: 1723155244.6647372
+start count: 1723155263.2580473
+start count: 1723155285.6350534
+start count: 1723155308.9592338
+start count: 1723155331.662527
+start count: 1723155349.1275315
+start count: 1723155371.5958855
+ Will you is = 17219627------
+ Start BEAST = 17219627------
+ End segmentation of BEAST = 17219627------
+ BEAST Energy Vector Length = 605------
+ End BEAST = 17219627------
+start count: 1723155395.0065832
+start count: 1723155418.075304
+start count: 1723155438.0604045
+start count: 1723155461.6066475
+start count: 1723155485.421134
+start count: 1723155508.869732
+start count: 1723155532.399239
+start count: 1723155556.7223227
+start count: 1723155580.8824089
+start count: 1723155605.3225849
+start count: 1723155629.5955
+start count: 1723155653.2886705
+start count: 1723155677.0982602
+start count: 1723155700.3277037
+ Will you is = 17354840------
+ Start BEAST = 17354840------
+ End segmentation of BEAST = 17354840------
+ BEAST Energy Vector Length = 570------
+ End BEAST = 17354840------
+start count: 1723155724.990975
+start count: 1723155747.7974584
+start count: 1723155771.5539498
+start count: 1723155794.6141582
+start count: 1723155815.0975773
+start count: 1723155836.716953
+start count: 1723155860.1470299
+start count: 1723155883.8113997
+start count: 1723155907.9531481
+start count: 1723155931.9576724
+start count: 1723155956.146048
+start count: 1723155978.9921937
+start count: 1723156001.2116091
+start count: 1723156024.0852213
+ Will you is = 17490496------
+ Start BEAST = 17490496------
+ End segmentation of BEAST = 17490496------
+ BEAST Energy Vector Length = 564------
+ End BEAST = 17490496------
+start count: 1723156046.4541745
+start count: 1723156070.2354534
+start count: 1723156093.1039236
+start count: 1723156116.7205296
+start count: 1723156140.5238254
+start count: 1723156163.933935
+start count: 1723156187.1176004
+start count: 1723156210.951612
+start count: 1723156233.275958
+start count: 1723156257.0224643
+start count: 1723156280.635815
+start count: 1723156303.7615116
+start count: 1723156327.7183163
+ Will you is = 17627500------
+ Start BEAST = 17627500------
+ End segmentation of BEAST = 17627500------
+ BEAST Energy Vector Length = 563------
+ End BEAST = 17627500------
+start count: 1723156351.9169934
+start count: 1723156373.997382
+start count: 1723156396.2604513
+start count: 1723156418.8041036
+start count: 1723156441.9950633
+start count: 1723156462.0973642
+start count: 1723156474.0948954
+start count: 1723156496.0566592
+start count: 1723156519.170949
+start count: 1723156539.626131
+start count: 1723156562.708095
+start count: 1723156584.4849195
+start count: 1723156607.5975497
+start count: 1723156630.6729176
+start count: 1723156652.1542187
+ Will you is = 17773766------
+ Start BEAST = 17773766------
+ End segmentation of BEAST = 17773766------
+ BEAST Energy Vector Length = 600------
+ End BEAST = 17773766------
+start count: 1723156673.0237622
+start count: 1723156695.7927139
+start count: 1723156718.5690525
+start count: 1723156740.3049657
+start count: 1723156761.6224399
+start count: 1723156784.8601925
+start count: 1723156807.7194364
+start count: 1723156830.8551233
+start count: 1723156853.0896716
+start count: 1723156874.5389025
+start count: 1723156897.2628925
+start count: 1723156918.591616
+start count: 1723156939.2179985
+start count: 1723156960.27245
+start count: 1723156981.524103
+ Will you is = 17927136------
+ Start BEAST = 17927136------
+ End segmentation of BEAST = 17927136------
+ BEAST Energy Vector Length = 641------
+ End BEAST = 17927136------
+start count: 1723157003.5674217
+start count: 1723157024.454746
+start count: 1723157044.4900053
+start count: 1723157067.0759027
+start count: 1723157089.5783622
+start count: 1723157111.0548627
+start count: 1723157131.983343
+start count: 1723157150.6002696
+start count: 1723157171.7972574
+start count: 1723157189.2014523
+start count: 1723157210.5734608
+start count: 1723157230.257402
+start count: 1723157251.128096
+start count: 1723157270.281235
+start count: 1723157291.0380056
+start count: 1723157312.1840832
+start count: 1723157334.81229
+ Will you is = 18095803------
+ Start BEAST = 18095803------
+ End segmentation of BEAST = 18095803------
+ BEAST Energy Vector Length = 690------
+ End BEAST = 18095803------
+start count: 1723157358.3990123
+start count: 1723157380.0442882
+start count: 1723157401.612148
+start count: 1723157421.30582
+start count: 1723157438.0826793
+start count: 1723157453.6956663
+start count: 1723157464.9547932
+start count: 1723157480.1884058
+start count: 1723157500.2868853
+start count: 1723157519.635236
+start count: 1723157531.8510487
+start count: 1723157550.6393583
+start count: 1723157571.8565416
+start count: 1723157589.3347
+start count: 1723157611.1383457
+start count: 1723157632.566744
+start count: 1723157653.4438603
+ Will you is = 18261837------
+ Start BEAST = 18261837------
+ End segmentation of BEAST = 18261837------
+ BEAST Energy Vector Length = 732------
+ End BEAST = 18261837------
+start count: 1723157671.6952899
+start count: 1723157687.3673542
+start count: 1723157709.7771032
+start count: 1723157727.1572435
+start count: 1723157747.5254297
+start count: 1723157767.757167
+start count: 1723157789.9597883
+start count: 1723157808.7333493
+start count: 1723157827.5384407
+start count: 1723157847.837448
+start count: 1723157869.9833272
+start count: 1723157891.5165799
+start count: 1723157910.734648
+start count: 1723157925.8257987
+start count: 1723157946.1653745
+ Will you is = 18411172------
+ Start BEAST = 18411172------
+ End segmentation of BEAST = 18411172------
+ BEAST Energy Vector Length = 742------
+ End BEAST = 18411172------
+start count: 1723157969.0677977
+start count: 1723157986.185919
+start count: 1723158008.667441
+start count: 1723158030.1548681
+start count: 1723158046.3991697
+start count: 1723158061.3049448
+start count: 1723158078.00258
+start count: 1723158098.6357105
+start count: 1723158118.6185904
+start count: 1723158138.6313558
+start count: 1723158156.9873836
+start count: 1723158177.1537938
+start count: 1723158196.736902
+start count: 1723158215.5958943
+ Will you is = 18559856------
+ Start BEAST = 18559856------
+ End segmentation of BEAST = 18559856------
+ BEAST Energy Vector Length = 612------
+ End BEAST = 18559856------
+start count: 1723158236.6729388
+start count: 1723158256.9134557
+start count: 1723158277.0159736
+start count: 1723158294.6249256
+start count: 1723158312.68107
+start count: 1723158331.9656363
+start count: 1723158352.2690513
+start count: 1723158371.670452
+start count: 1723158389.631106
+start count: 1723158408.3857737
+start count: 1723158425.9569824
+start count: 1723158444.4436247
+start count: 1723158462.1517467
+start count: 1723158479.0831137
+ Will you is = 18695997------
+ Start BEAST = 18695997------
+ End segmentation of BEAST = 18695997------
+ BEAST Energy Vector Length = 602------
+ End BEAST = 18695997------
+start count: 1723158497.9149723
+start count: 1723158515.0505774
+start count: 1723158533.0459764
+start count: 1723158550.925632
+start count: 1723158567.5185096
+start count: 1723158584.7515182
+start count: 1723158601.2091594
+start count: 1723158616.9758346
+start count: 1723158633.5307403
+start count: 1723158652.574419
+start count: 1723158670.7398148
+start count: 1723158687.7865672
+start count: 1723158703.6114402
+start count: 1723158720.2205906
+ Will you is = 18831062------
+ Start BEAST = 18831062------
+ End segmentation of BEAST = 18831062------
+ BEAST Energy Vector Length = 557------
+ End BEAST = 18831062------
+start count: 1723158737.4839656
+start count: 1723158754.0765784
+start count: 1723158771.161161
+start count: 1723158787.1212564
+start count: 1723158802.7914047
+start count: 1723158818.4924383
+start count: 1723158836.903715
+start count: 1723158858.5647962
+start count: 1723158880.6956987
+start count: 1723158900.2957642
+start count: 1723158920.908286
+start count: 1723158939.798921
+start count: 1723158958.5782588
+ Will you is = 18966533------
+ Start BEAST = 18966533------
+ End segmentation of BEAST = 18966533------
+ BEAST Energy Vector Length = 613------
+ End BEAST = 18966533------
+start count: 1723158978.6871052
+start count: 1723158999.6677916
+start count: 1723159021.046437
+start count: 1723159043.1142454
+start count: 1723159064.831483
+start count: 1723159084.9598393
+start count: 1723159107.2062795
+start count: 1723159127.8336377
+start count: 1723159145.8524578
+start count: 1723159165.6776338
+start count: 1723159185.1285567
+start count: 1723159206.5373182
+start count: 1723159227.513661
+start count: 1723159249.8472939
+ Will you is = 19101844------
+ Start BEAST = 19101844------
+ End segmentation of BEAST = 19101844------
+ BEAST Energy Vector Length = 563------
+ End BEAST = 19101844------
+start count: 1723159271.701088
+start count: 1723159292.7704303
+start count: 1723159315.3114944
+start count: 1723159336.6640165
+start count: 1723159357.784176
+start count: 1723159377.7668092
+start count: 1723159398.574681
+start count: 1723159418.46393
+start count: 1723159439.5377295
+start count: 1723159458.4487882
+start count: 1723159479.0730438
+start count: 1723159497.201184
+start count: 1723159514.7744331
+ Will you is = 19238514------
+ Start BEAST = 19238514------
+ End segmentation of BEAST = 19238514------
+ BEAST Energy Vector Length = 622------
+ End BEAST = 19238514------
+start count: 1723159533.9534707
+start count: 1723159551.756118
+start count: 1723159568.6413062
+start count: 1723159587.4529622
+start count: 1723159606.3818269
+start count: 1723159625.74211
+start count: 1723159643.7242498
+start count: 1723159662.0900095
+start count: 1723159680.2530959
+start count: 1723159698.532442
+start count: 1723159716.8424149
+start count: 1723159735.1246514
+start count: 1723159753.4003031
+start count: 1723159772.2406244
+ Will you is = 19373488------
+ Start BEAST = 19373488------
+ End segmentation of BEAST = 19373488------
+ BEAST Energy Vector Length = 548------
+ End BEAST = 19373488------
+start count: 1723159792.5186203
+start count: 1723159811.221716
+start count: 1723159829.7357419
+start count: 1723159848.7458234
+start count: 1723159868.091659
+start count: 1723159885.6930337
+start count: 1723159903.4779773
+start count: 1723159919.672724
+start count: 1723159937.723119
+start count: 1723159955.8179226
+start count: 1723159973.7767446
+start count: 1723159990.985448
+start count: 1723160007.411094
+ Will you is = 19508880------
+ Start BEAST = 19508880------
+ End segmentation of BEAST = 19508880------
+ BEAST Energy Vector Length = 555------
+ End BEAST = 19508880------
+start count: 1723160024.6565018
+start count: 1723160042.967524
+start count: 1723160059.7766192
+start count: 1723160077.7889256
+start count: 1723160095.3859043
+start count: 1723160116.2911081
+start count: 1723160139.7533004
+start count: 1723160162.751515
+start count: 1723160177.331045
+start count: 1723160200.4348185
+start count: 1723160223.885562
+start count: 1723160246.1068742
+start count: 1723160268.8660371
+start count: 1723160288.0101826
+start count: 1723160306.3796177
+ Will you is = 19655115------
+ Start BEAST = 19655115------
+ End segmentation of BEAST = 19655115------
+ BEAST Energy Vector Length = 606------
+ End BEAST = 19655115------
+start count: 1723160329.800984
+start count: 1723160347.4091587
+start count: 1723160363.3873532
+start count: 1723160386.1853445
+start count: 1723160407.898918
+start count: 1723160430.1032445
+start count: 1723160450.2547026
+start count: 1723160473.4190004
+start count: 1723160495.2230828
+start count: 1723160518.70309
+start count: 1723160536.7601519
+start count: 1723160555.851236
+start count: 1723160577.331632
+start count: 1723160597.7936504
+ Will you is = 19797119------
+ Start BEAST = 19797119------
+ End segmentation of BEAST = 19797119------
+ BEAST Energy Vector Length = 619------
+ End BEAST = 19797119------
+start count: 1723160617.335712
+start count: 1723160638.661727
+start count: 1723160661.1006622
+start count: 1723160683.8599076
+start count: 1723160703.628927
+start count: 1723160726.3019953
+start count: 1723160744.5145867
+start count: 1723160764.14926
+start count: 1723160787.772129
+start count: 1723160810.8602276
+start count: 1723160832.2437637
+start count: 1723160851.3810644
+start count: 1723160872.1573758
+start count: 1723160895.2547743
+ Will you is = 19938381------
+ Start BEAST = 19938381------
+ End segmentation of BEAST = 19938381------
+ BEAST Energy Vector Length = 581------
+ End BEAST = 19938381------
+start count: 1723160919.4109042
+start count: 1723160942.4816868
+start count: 1723160964.2057185
+start count: 1723160985.7731166
+start count: 1723161008.4795113
+start count: 1723161031.6222029
+end time: 02:51:10
+
